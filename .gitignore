@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+data/*.db
+data/sp500_tickers.json
+data/company_tickers.json
+data/corpcode.xml
+sessions/
+*.session
+*.session-journal

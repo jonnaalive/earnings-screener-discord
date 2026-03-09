@@ -1,0 +1,28 @@
+# 모니터링할 텔레그램 채널 목록
+# folder_id로 지정 시 해당 폴더 내 전체 채널 모니터링
+
+# 개별 채널 (folder_id 미사용 시)
+channels: []
+  # - "@channel_username"
+
+# 실적 키워드 (메시지 필터링)
+earnings_keywords:
+  ko:
+    - "실적"
+    - "어닝"
+    - "매출"
+    - "영업이익"
+    - "순이익"
+    - "분기 실적"
+    - "잠정실적"
+    - "컨센서스"
+    - "EPS"
+  en:
+    - "earnings"
+    - "beat"
+    - "miss"
+    - "quarterly results"
+    - "revenue"
+    - "EPS"
+    - "guidance"
+    - "operating income"
