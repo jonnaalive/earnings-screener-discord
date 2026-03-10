@@ -126,6 +126,7 @@ def enrich_from_yfinance(event: EarningsEvent) -> QuarterlyFinancials | None:
             market=event.market,
             report_date=event.report_date,
             current_price=price,
+            market_cap=info.get("marketCap"),
             fifty_two_week_high=info.get("fiftyTwoWeekHigh"),
             fifty_two_week_low=info.get("fiftyTwoWeekLow"),
             currency=currency,

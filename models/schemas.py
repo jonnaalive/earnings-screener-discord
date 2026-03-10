@@ -32,6 +32,7 @@ class QuarterlyFinancials:
 
     # 가격 데이터
     current_price: Optional[float] = None
+    market_cap: Optional[float] = None
     fifty_two_week_high: Optional[float] = None
     fifty_two_week_low: Optional[float] = None
     currency: str = "USD"
@@ -76,6 +77,7 @@ class ScreenResult:
 
     # 가격
     current_price: Optional[float] = None
+    market_cap: Optional[float] = None    # 시가총액 (USD or KRW)
     currency: str = "USD"
 
     # 회사 정보

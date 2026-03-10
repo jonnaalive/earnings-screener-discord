@@ -50,9 +50,10 @@ class TelegramSender:
                     msg1.append(f"      🏢 {r.description}")
                 if r.context:
                     msg1.append(f"      💡 {r.context}")
+                msg1.append("")
         else:
             msg1.append("   없음")
-        msg1.append("")
+            msg1.append("")
 
         # 매출 성장
         msg1.append(f"📈 <b>매출 성장 QoQ</b> ({len(cat2)})")
@@ -61,9 +62,10 @@ class TelegramSender:
                 v = r.revenue_growth.value
                 bar = self._bar(v)
                 msg1.append(f"   ▸ <b>{self._name(r)}</b>  {bar} {v:+.1%}")
+                msg1.append("")
         else:
             msg1.append("   없음")
-        msg1.append("")
+            msg1.append("")
 
         # 영업이익 > 매출
         msg1.append(f"⚡ <b>영업이익 > 매출 성장</b> ({len(cat3)})")
@@ -72,15 +74,17 @@ class TelegramSender:
                 rv = r.revenue_growth.value or 0
                 ov = r.op_income_growth.value or 0
                 msg1.append(f"   ▸ <b>{self._name(r)}</b>  매출 {rv:+.1%} → 영업 {ov:+.1%}")
+                msg1.append("")
         else:
             msg1.append("   없음")
-        msg1.append("")
+            msg1.append("")
 
         # 순이익률 개선
         msg1.append(f"💰 <b>순이익률 개선</b> ({len(cat4)})")
         if cat4:
             for r in cat4:
                 msg1.append(f"   ▸ <b>{self._name(r)}</b>  {r.net_margin_improvement.detail}")
+                msg1.append("")
         else:
             msg1.append("   없음")
 
@@ -115,16 +119,34 @@ class TelegramSender:
     # ── 포맷 헬퍼 ──
 
     def _name(self, r: ScreenResult) -> str:
-        """티커 (+ 회사명 for KR)."""
+        """티커 (+ 회사명 for KR) + 시가총액."""
         if r.market == "KR" and r.company_name and r.company_name != "unknown":
-            return f"{r.ticker} {r.company_name}"
-        return r.ticker
+            base = f"{r.ticker} {r.company_name}"
+        else:
+            base = r.ticker
+        cap = self._mcap(r.market_cap)
+        return f"{base}  {cap}" if cap else base
 
     def _full_name(self, r: ScreenResult) -> str:
-        """티커 + 회사명."""
+        """티커 + 회사명 + 시가총액."""
         if r.company_name and r.company_name != r.ticker and r.company_name != "unknown":
-            return f"{r.ticker}  {r.company_name}"
-        return r.ticker
+            base = f"{r.ticker}  {r.company_name}"
+        else:
+            base = r.ticker
+        cap = self._mcap(r.market_cap)
+        return f"{base}  {cap}" if cap else base
+
+    def _mcap(self, cap: float | None) -> str:
+        """시가총액 축약 표시."""
+        if not cap:
+            return ""
+        if cap >= 1e12:
+            return f"💎${cap / 1e12:.1f}T"
+        elif cap >= 1e9:
+            return f"💎${cap / 1e9:.1f}B"
+        elif cap >= 1e6:
+            return f"💎${cap / 1e6:.0f}M"
+        return ""
 
     def _bar(self, value: float | None) -> str:
         """성장률 시각 바."""

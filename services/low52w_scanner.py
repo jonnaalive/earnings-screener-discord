@@ -149,6 +149,7 @@ def scan_52w_low(threshold: float = 0.05) -> list[ScreenResult]:
                 market="US",
                 report_date=today,
                 current_price=price,
+                market_cap=info.get("marketCap"),
                 currency="USD",
                 industry=industry,
                 description=description,
