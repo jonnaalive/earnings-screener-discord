@@ -2,8 +2,8 @@ name: Weekly Digest
 
 on:
   schedule:
-    # 매주 일요일 21:00 KST = 12:00 UTC
-    - cron: '0 12 * * 0'
+    # 매주 금요일 21:00 KST = 12:00 UTC
+    - cron: '0 12 * * 5'
   workflow_dispatch:
 
 jobs:
