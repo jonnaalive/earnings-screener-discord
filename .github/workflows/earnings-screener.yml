@@ -46,3 +46,11 @@ jobs:
           from main import run_pipeline
           asyncio.run(run_pipeline())
           "
+
+      - name: Commit weekly hits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/weekly_hits.json
+          git diff --cached --quiet || git commit -m "chore: update weekly_hits.json"
+          git push

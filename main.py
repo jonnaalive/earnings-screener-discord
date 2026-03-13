@@ -3,10 +3,12 @@
 from __future__ import annotations
 
 import asyncio
+import json
 import logging
 import sys
 import time
 from datetime import datetime
+from pathlib import Path
 
 from config.settings import get_settings
 from database.db import Database
@@ -150,6 +152,9 @@ async def run_pipeline():
         except Exception as e:
             logger.error("[52w_scanner] Scan failed (non-fatal): %s", e)
 
+        # 4-2. 주간 다이제스트용 3+ pass 종목 누적
+        _save_weekly_hits(results, run_date)
+
         # 5. 결과 발송
         sent = 0
         if results:
@@ -177,6 +182,40 @@ async def run_pipeline():
             pass
     finally:
         await db.close()
+
+
+WEEKLY_HITS_PATH = Path(__file__).resolve().parent / "data" / "weekly_hits.json"
+
+
+def _save_weekly_hits(results, run_date: str):
+    """3+ pass 종목을 weekly_hits.json에 누적."""
+    hits = [r for r in results if r.pass_count >= 3]
+    if not hits:
+        return
+
+    existing = []
+    if WEEKLY_HITS_PATH.exists():
+        try:
+            existing = json.loads(WEEKLY_HITS_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            existing = []
+
+    seen = {(h["ticker"], h["date"]) for h in existing}
+    for r in hits:
+        key = (r.ticker, run_date)
+        if key in seen:
+            continue
+        seen.add(key)
+        existing.append({
+            "ticker": r.ticker,
+            "name": r.company_name,
+            "pass_count": r.pass_count,
+            "date": run_date,
+        })
+
+    WEEKLY_HITS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    WEEKLY_HITS_PATH.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
+    logger.info("Weekly hits: saved %d new (total %d)", len(hits), len(existing))
 
 
 def main():
