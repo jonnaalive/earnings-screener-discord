@@ -69,8 +69,8 @@ class Settings:
                 session_name=os.environ.get("SESSION_NAME", "earnings_screener"),
             ),
             telegram_bot=TelegramBotConfig(
-                bot_token=os.environ["TELEGRAM_BOT_TOKEN"],
-                chat_id=os.environ["TELEGRAM_CHAT_ID"],
+                bot_token=os.environ.get("TELEGRAM_BOT_TOKEN", ""),
+                chat_id=os.environ.get("TELEGRAM_CHAT_ID", ""),
             ),
             finnhub=FinnhubConfig(
                 api_key=os.environ.get("FINNHUB_API_KEY", ""),
