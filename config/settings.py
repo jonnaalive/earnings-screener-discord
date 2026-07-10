@@ -63,7 +63,7 @@ class Settings:
 
         return cls(
             telegram_user=TelegramUserConfig(
-                api_id=int(os.environ.get("TELEGRAM_API_ID", "0")),
+                api_id=int(os.environ.get("TELEGRAM_API_ID") or "0"),
                 api_hash=os.environ.get("TELEGRAM_API_HASH", ""),
                 phone=os.environ.get("TELEGRAM_PHONE", ""),
                 session_name=os.environ.get("SESSION_NAME", "earnings_screener"),
@@ -81,7 +81,7 @@ class Settings:
             edgar=EdgarConfig(
                 user_agent=os.environ.get("EDGAR_USER_AGENT", "EarningsScreener admin@example.com"),
             ),
-            folder_id=int(os.environ.get("TELEGRAM_FOLDER_ID", "0")),
+            folder_id=int(os.environ.get("TELEGRAM_FOLDER_ID") or "0"),
             schedule_hours=hours,
             lookback_days=int(os.environ.get("LOOKBACK_DAYS", "3")),
             low_52w_threshold=float(os.environ.get("LOW_52W_THRESHOLD", "0.05")),
