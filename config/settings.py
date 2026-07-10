@@ -54,6 +54,7 @@ class Settings:
     low_52w_threshold: float
     log_level: str
     db_path: Path
+    discord_webhook_url: str = ""
 
     @classmethod
     def load(cls) -> "Settings":
@@ -86,6 +87,7 @@ class Settings:
             low_52w_threshold=float(os.environ.get("LOW_52W_THRESHOLD", "0.05")),
             log_level=os.environ.get("LOG_LEVEL", "INFO"),
             db_path=BASE_DIR / "data" / "earnings_screener.db",
+            discord_webhook_url=os.environ.get("DISCORD_WEBHOOK_URL", ""),
         )
 
 

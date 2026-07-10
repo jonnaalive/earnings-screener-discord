@@ -80,16 +80,21 @@ async def send_digest():
         return
 
     settings = get_settings()
-    bot = Bot(token=settings.telegram_bot.bot_token)
-    chat_id = settings.telegram_bot.chat_id
     msg = build_message(hits)
 
-    await bot.send_message(
-        chat_id=settings.telegram_bot.chat_id,
-        text=msg,
-        parse_mode=ParseMode.HTML,
-    )
-    logger.info("Weekly digest sent (%d hits)", len(hits))
+    if settings.discord_webhook_url:
+        from services.discord_sender import send_html, USERNAME
+
+        send_html(settings.discord_webhook_url, msg, username=USERNAME)
+        logger.info("Weekly digest sent to Discord (%d hits)", len(hits))
+    else:
+        bot = Bot(token=settings.telegram_bot.bot_token)
+        await bot.send_message(
+            chat_id=settings.telegram_bot.chat_id,
+            text=msg,
+            parse_mode=ParseMode.HTML,
+        )
+        logger.info("Weekly digest sent (%d hits)", len(hits))
 
     # 리셋
     WEEKLY_HITS_PATH.write_text("[]", encoding="utf-8")

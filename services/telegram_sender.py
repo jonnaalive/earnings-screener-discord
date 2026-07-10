@@ -22,7 +22,8 @@ class TelegramSender:
         self.bot = Bot(token=config.bot_token)
         self.chat_id = config.chat_id
 
-    def build_report(self, results: list[ScreenResult], total_collected: int,
+    @staticmethod
+    def build_report(results: list[ScreenResult], total_collected: int,
                      run_date: str) -> list[str]:
         dt = datetime.strptime(run_date, "%Y-%m-%d")
         weekday = WEEKDAY_KR[dt.weekday()]
@@ -45,7 +46,7 @@ class TelegramSender:
         msg1.append(f"📉 <b>52주 신저가</b> ({len(cat1)})")
         if cat1:
             for r in cat1:
-                msg1.append(f"   ▸ <b>{self._name(r)}</b>  {r.near_52w_low.detail}")
+                msg1.append(f"   ▸ <b>{TelegramSender._name(r)}</b>  {r.near_52w_low.detail}")
                 if r.description:
                     msg1.append(f"      🏢 {r.description}")
                 if r.context:
@@ -60,8 +61,8 @@ class TelegramSender:
         if cat2:
             for r in cat2:
                 v = r.revenue_growth.value
-                bar = self._bar(v)
-                msg1.append(f"   ▸ <b>{self._name(r)}</b>  {bar} {v:+.1%}")
+                bar = TelegramSender._bar(v)
+                msg1.append(f"   ▸ <b>{TelegramSender._name(r)}</b>  {bar} {v:+.1%}")
                 msg1.append("")
         else:
             msg1.append("   없음")
@@ -73,7 +74,7 @@ class TelegramSender:
             for r in cat3:
                 rv = r.revenue_growth.value or 0
                 ov = r.op_income_growth.value or 0
-                msg1.append(f"   ▸ <b>{self._name(r)}</b>  매출 {rv:+.1%} → 영업 {ov:+.1%}")
+                msg1.append(f"   ▸ <b>{TelegramSender._name(r)}</b>  매출 {rv:+.1%} → 영업 {ov:+.1%}")
                 msg1.append("")
         else:
             msg1.append("   없음")
@@ -83,7 +84,7 @@ class TelegramSender:
         msg1.append(f"💰 <b>순이익률 개선</b> ({len(cat4)})")
         if cat4:
             for r in cat4:
-                msg1.append(f"   ▸ <b>{self._name(r)}</b>  {r.net_margin_improvement.detail}")
+                msg1.append(f"   ▸ <b>{TelegramSender._name(r)}</b>  {r.net_margin_improvement.detail}")
                 msg1.append("")
         else:
             msg1.append("   없음")
@@ -98,14 +99,14 @@ class TelegramSender:
                 msg2.append(f"🏆 <b>ALL 4 PASS</b> ({len(all_pass)})")
                 msg2.append("")
                 for r in all_pass:
-                    msg2.append(self._card(r))
+                    msg2.append(TelegramSender._card(r))
                     msg2.append("")
 
             if notable:
                 msg2.append(f"🔍 <b>주목 종목</b> ({len(notable)})")
                 msg2.append("")
                 for r in notable:
-                    msg2.append(self._card(r))
+                    msg2.append(TelegramSender._card(r))
                     msg2.append("")
 
             messages.append("\n".join(msg2).rstrip())
@@ -113,30 +114,33 @@ class TelegramSender:
         # 각 메시지를 4096자 제한으로 분할
         final = []
         for msg in messages:
-            final.extend(self._split(msg))
+            final.extend(TelegramSender._split(msg))
         return final
 
     # ── 포맷 헬퍼 ──
 
-    def _name(self, r: ScreenResult) -> str:
+    @staticmethod
+    def _name(r: ScreenResult) -> str:
         """티커 (+ 회사명 for KR) + 시가총액."""
         if r.market == "KR" and r.company_name and r.company_name != "unknown":
             base = f"{r.ticker} {r.company_name}"
         else:
             base = r.ticker
-        cap = self._mcap(r.market_cap)
+        cap = TelegramSender._mcap(r.market_cap)
         return f"{base}  {cap}" if cap else base
 
-    def _full_name(self, r: ScreenResult) -> str:
+    @staticmethod
+    def _full_name(r: ScreenResult) -> str:
         """티커 + 회사명 + 시가총액."""
         if r.company_name and r.company_name != r.ticker and r.company_name != "unknown":
             base = f"{r.ticker}  {r.company_name}"
         else:
             base = r.ticker
-        cap = self._mcap(r.market_cap)
+        cap = TelegramSender._mcap(r.market_cap)
         return f"{base}  {cap}" if cap else base
 
-    def _mcap(self, cap: float | None) -> str:
+    @staticmethod
+    def _mcap(cap: float | None) -> str:
         """시가총액 축약 표시."""
         if not cap:
             return ""
@@ -148,7 +152,8 @@ class TelegramSender:
             return f"💎${cap / 1e6:.0f}M"
         return ""
 
-    def _bar(self, value: float | None) -> str:
+    @staticmethod
+    def _bar(value: float | None) -> str:
         """성장률 시각 바."""
         if value is None:
             return ""
@@ -164,14 +169,15 @@ class TelegramSender:
         else:
             return "▓░░░░"
 
-    def _card(self, r: ScreenResult) -> str:
+    @staticmethod
+    def _card(r: ScreenResult) -> str:
         """종목 상세 카드."""
         lines = []
 
         # 1줄: 이름 + 배지
-        badge = self._badge(r)
+        badge = TelegramSender._badge(r)
         lines.append(f"{'━' * 20}")
-        lines.append(f"{badge}  <b>{self._full_name(r)}</b>")
+        lines.append(f"{badge}  <b>{TelegramSender._full_name(r)}</b>")
 
         # 2줄: 회사 설명
         if r.description:
@@ -201,7 +207,8 @@ class TelegramSender:
 
         return "\n".join(lines)
 
-    def _badge(self, r: ScreenResult) -> str:
+    @staticmethod
+    def _badge(r: ScreenResult) -> str:
         """통과 개수 이모지 배지."""
         n = r.pass_count
         if n == 4:
@@ -212,7 +219,8 @@ class TelegramSender:
             return "🔹"
         return "▫️"
 
-    def _split(self, text: str) -> list[str]:
+    @staticmethod
+    def _split(text: str) -> list[str]:
         if len(text) <= MAX_MESSAGE_LENGTH:
             return [text]
         chunks = []

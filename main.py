@@ -21,6 +21,7 @@ from services.financial_data import enrich_event
 from services.screener import screen
 from services.low52w_scanner import scan_52w_low
 from services.telegram_sender import TelegramSender
+from services.discord_sender import DiscordSender
 
 logger = logging.getLogger("earnings_screener")
 
@@ -95,7 +96,12 @@ async def run_pipeline():
     logger.info("=== Earnings Screener Pipeline START (%s) ===", run_date)
 
     db = Database(settings.db_path)
-    sender = TelegramSender(settings.telegram_bot)
+    if settings.discord_webhook_url:
+        sender = DiscordSender(settings.discord_webhook_url)
+        logger.info("Notifier: Discord webhook")
+    else:
+        sender = TelegramSender(settings.telegram_bot)
+        logger.info("Notifier: Telegram")
 
     try:
         await db.connect()
