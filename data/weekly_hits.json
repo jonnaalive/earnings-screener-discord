@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "ticker": "EDUC",
+    "name": "Educational Development Corporation",
+    "pass_count": 3,
+    "date": "2026-07-10"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "pass_count": 4,
+    "date": "2026-07-10"
+  },
+  {
+    "ticker": "WDFC",
+    "name": "WD-40 Company",
+    "pass_count": 3,
+    "date": "2026-07-10"
+  },
+  {
+    "ticker": "AZZ",
+    "name": "AZZ Inc.",
+    "pass_count": 3,
+    "date": "2026-07-10"
+  },
+  {
+    "ticker": "PCYO",
+    "name": "Pure Cycle Corporation",
+    "pass_count": 3,
+    "date": "2026-07-10"
+  },
+  {
+    "ticker": "EPAC",
+    "name": "Enerpac Tool Group Corp.",
+    "pass_count": 3,
+    "date": "2026-07-10"
+  },
+  {
+    "ticker": "KRUS",
+    "name": "Kura Sushi USA, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-10"
+  }
+]
