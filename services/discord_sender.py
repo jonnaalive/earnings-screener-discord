@@ -73,7 +73,7 @@ def post_webhook(webhook_url: str, content: str, username: str | None = None) ->
     for attempt in range(5):
         req = urllib.request.Request(
             webhook_url, data=data,
-            headers={"Content-Type": "application/json"}, method="POST",
+            headers={"Content-Type": "application/json", "User-Agent": "discord-webhook (github.com/jonnaalive)"}, method="POST",
         )
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
@@ -111,7 +111,7 @@ def _post_raw(webhook_url: str, content: str, username: str | None = None) -> No
     for _ in range(5):
         req = urllib.request.Request(
             webhook_url, data=data,
-            headers={"Content-Type": "application/json"}, method="POST",
+            headers={"Content-Type": "application/json", "User-Agent": "discord-webhook (github.com/jonnaalive)"}, method="POST",
         )
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
