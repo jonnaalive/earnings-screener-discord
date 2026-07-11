@@ -40,5 +40,35 @@
     "name": "Kura Sushi USA, Inc.",
     "pass_count": 3,
     "date": "2026-07-10"
+  },
+  {
+    "ticker": "EDUC",
+    "name": "Educational Development Corporation",
+    "pass_count": 3,
+    "date": "2026-07-11"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "pass_count": 4,
+    "date": "2026-07-11"
+  },
+  {
+    "ticker": "WDFC",
+    "name": "WD-40 Company",
+    "pass_count": 3,
+    "date": "2026-07-11"
+  },
+  {
+    "ticker": "AZZ",
+    "name": "AZZ Inc.",
+    "pass_count": 3,
+    "date": "2026-07-11"
+  },
+  {
+    "ticker": "PCYO",
+    "name": "Pure Cycle Corporation",
+    "pass_count": 3,
+    "date": "2026-07-11"
   }
 ]
