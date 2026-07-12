@@ -70,5 +70,23 @@
     "name": "Pure Cycle Corporation",
     "pass_count": 3,
     "date": "2026-07-11"
+  },
+  {
+    "ticker": "EDUC",
+    "name": "Educational Development Corporation",
+    "pass_count": 3,
+    "date": "2026-07-12"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "pass_count": 4,
+    "date": "2026-07-12"
+  },
+  {
+    "ticker": "WDFC",
+    "name": "WD-40 Company",
+    "pass_count": 3,
+    "date": "2026-07-12"
   }
 ]
