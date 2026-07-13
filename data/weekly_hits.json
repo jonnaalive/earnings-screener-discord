@@ -88,5 +88,11 @@
     "name": "WD-40 Company",
     "pass_count": 3,
     "date": "2026-07-12"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-13"
   }
 ]
