@@ -94,5 +94,11 @@
     "name": "Delta Air Lines, Inc.",
     "pass_count": 3,
     "date": "2026-07-13"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "pass_count": 3,
+    "date": "2026-07-14"
   }
 ]
