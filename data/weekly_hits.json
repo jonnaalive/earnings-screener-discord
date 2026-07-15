@@ -106,5 +106,23 @@
     "name": "Aehr Test Systems, Inc.",
     "pass_count": 3,
     "date": "2026-07-14"
+  },
+  {
+    "ticker": "AEHR",
+    "name": "Aehr Test Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "ticker": "DSNY",
+    "name": "Destiny Media Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "pass_count": 3,
+    "date": "2026-07-15"
   }
 ]
