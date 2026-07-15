@@ -124,5 +124,29 @@
     "name": "Fastenal Company",
     "pass_count": 3,
     "date": "2026-07-15"
+  },
+  {
+    "ticker": "BTCY",
+    "name": "Biotricity, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "ticker": "CRMT",
+    "name": "America's Car-Mart, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "ticker": "PXED",
+    "name": "Phoenix Education Partners, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-15"
+  },
+  {
+    "ticker": "SPRS",
+    "name": "Surge Components, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-15"
   }
 ]
