@@ -148,5 +148,35 @@
     "name": "Surge Components, Inc.",
     "pass_count": 3,
     "date": "2026-07-15"
+  },
+  {
+    "ticker": "BTCY",
+    "name": "Biotricity, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "CRMT",
+    "name": "America's Car-Mart, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "DSNY",
+    "name": "Destiny Media Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "PXED",
+    "name": "Phoenix Education Partners, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "SPRS",
+    "name": "Surge Components, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
   }
 ]
