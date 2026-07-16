@@ -178,5 +178,35 @@
     "name": "Surge Components, Inc.",
     "pass_count": 3,
     "date": "2026-07-16"
+  },
+  {
+    "ticker": "CNS",
+    "name": "Cohen & Steers, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "pass_count": 4,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "CCEL",
+    "name": "Cryo-Cell International, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "pass_count": 3,
+    "date": "2026-07-16"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-16"
   }
 ]
