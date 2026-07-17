@@ -208,5 +208,53 @@
     "name": "United Airlines Holdings, Inc.",
     "pass_count": 3,
     "date": "2026-07-16"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "pass_count": 4,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "CCEL",
+    "name": "Cryo-Cell International, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "BTCY",
+    "name": "Biotricity, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "CRMT",
+    "name": "America's Car-Mart, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "DSNY",
+    "name": "Destiny Media Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "PXED",
+    "name": "Phoenix Education Partners, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
   }
 ]
