@@ -256,5 +256,35 @@
     "name": "Phoenix Education Partners, Inc.",
     "pass_count": 3,
     "date": "2026-07-17"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "IIIN",
+    "name": "Insteel Industries Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "pass_count": 3,
+    "date": "2026-07-17"
+  },
+  {
+    "ticker": "SPRS",
+    "name": "Surge Components, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-17"
   }
 ]
