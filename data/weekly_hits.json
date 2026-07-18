@@ -286,5 +286,35 @@
     "name": "Surge Components, Inc.",
     "pass_count": 3,
     "date": "2026-07-17"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "pass_count": 3,
+    "date": "2026-07-18"
+  },
+  {
+    "ticker": "IIIN",
+    "name": "Insteel Industries Inc.",
+    "pass_count": 3,
+    "date": "2026-07-18"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-18"
+  },
+  {
+    "ticker": "CCEL",
+    "name": "Cryo-Cell International, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-18"
+  },
+  {
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "pass_count": 3,
+    "date": "2026-07-18"
   }
 ]
