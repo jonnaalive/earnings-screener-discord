@@ -316,5 +316,23 @@
     "name": "Karooooo Ltd.",
     "pass_count": 3,
     "date": "2026-07-18"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE",
+    "pass_count": 3,
+    "date": "2026-07-19"
+  },
+  {
+    "ticker": "IIIN",
+    "name": "Insteel Industries Inc.",
+    "pass_count": 3,
+    "date": "2026-07-19"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-19"
   }
 ]
