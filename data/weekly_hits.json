@@ -334,5 +334,17 @@
     "name": "Intuitive Surgical, Inc.",
     "pass_count": 3,
     "date": "2026-07-19"
+  },
+  {
+    "ticker": "CALX",
+    "name": "Calix, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-20"
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-20"
   }
 ]
