@@ -376,5 +376,17 @@
     "name": "Steel Dynamics, Inc.",
     "pass_count": 3,
     "date": "2026-07-21"
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "pass_count": 4,
+    "date": "2026-07-21"
+  },
+  {
+    "ticker": "RRC",
+    "name": "Range Resources Corporation",
+    "pass_count": 3,
+    "date": "2026-07-21"
   }
 ]
