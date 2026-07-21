@@ -346,5 +346,35 @@
     "name": "Steel Dynamics, Inc.",
     "pass_count": 3,
     "date": "2026-07-20"
+  },
+  {
+    "ticker": "FOR",
+    "name": "Forestar Group Inc.",
+    "pass_count": 3,
+    "date": "2026-07-21"
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "pass_count": 3,
+    "date": "2026-07-21"
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh & McLennan Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-21"
+  },
+  {
+    "ticker": "CALX",
+    "name": "Calix, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-21"
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics, Inc.",
+    "pass_count": 3,
+    "date": "2026-07-21"
   }
 ]
