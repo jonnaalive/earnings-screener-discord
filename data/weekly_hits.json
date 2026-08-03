@@ -2044,5 +2044,83 @@
     "name": "XPO, Inc.",
     "pass_count": 3,
     "date": "2026-08-02"
+  },
+  {
+    "ticker": "KOS",
+    "name": "Kosmos Energy Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "KRYS",
+    "name": "Krystal Biotech, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "LIND",
+    "name": "Lindblad Expeditions Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "AN",
+    "name": "AutoNation, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight Company, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive Company",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell Industries NV",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "PRLB",
+    "name": "Proto Labs, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "PWP",
+    "name": "Perella Weinberg Partners",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "RBC",
+    "name": "RBC Bearings Incorporated",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "VEON",
+    "name": "VEON Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-03"
   }
 ]
