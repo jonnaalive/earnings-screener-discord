@@ -2122,5 +2122,119 @@
     "name": "VEON Ltd.",
     "pass_count": 3,
     "date": "2026-08-03"
+  },
+  {
+    "ticker": "AEIS",
+    "name": "Advanced Energy Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "ALG",
+    "name": "Alamo Group Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "BCC",
+    "name": "Boise Cascade Company",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "CVGI",
+    "name": "Commercial Vehicle Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "HSTM",
+    "name": "HealthStream, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "ICHR",
+    "name": "Ichor Holdings, Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "IVT",
+    "name": "InvenTrust Properties Corp.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "MED",
+    "name": "Medifast, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "MTUS",
+    "name": "Metallus Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "NJR",
+    "name": "New Jersey Resources Corporation",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "OTTR",
+    "name": "Otter Tail Corporation",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "SBRA",
+    "name": "Sabra Health Care REIT, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "STRL",
+    "name": "Sterling Infrastructure, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "TTI",
+    "name": "TETRA Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "UTL",
+    "name": "Unitil Corporation",
+    "pass_count": 3,
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "VNOM",
+    "name": "Viper Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-03"
   }
 ]
