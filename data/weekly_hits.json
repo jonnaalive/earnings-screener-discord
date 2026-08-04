@@ -2236,5 +2236,245 @@
     "name": "Viper Energy, Inc.",
     "pass_count": 3,
     "date": "2026-08-03"
+  },
+  {
+    "ticker": "ET",
+    "name": "Energy Transfer LP",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "NPO",
+    "name": "Enpro Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group Incorporated",
+    "pass_count": 4,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "RSVR",
+    "name": "Reservoir Media, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "SQNS",
+    "name": "Sequans Communications S.A.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "SRTA",
+    "name": "Strata Critical Medical, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "SUN",
+    "name": "Sunoco LP",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TDG",
+    "name": "Transdigm Group Incorporated",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TKR",
+    "name": "The Timken Company",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TREX",
+    "name": "Trex Company, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "WLFC",
+    "name": "Willis Lease Finance Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "WLK",
+    "name": "Westlake Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "XMTR",
+    "name": "Xometry, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "AEIS",
+    "name": "Advanced Energy Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "ALG",
+    "name": "Alamo Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "BCC",
+    "name": "Boise Cascade Company",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "CVGI",
+    "name": "Commercial Vehicle Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "HSTM",
+    "name": "HealthStream, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "ICHR",
+    "name": "Ichor Holdings, Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "IVT",
+    "name": "InvenTrust Properties Corp.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "KOS",
+    "name": "Kosmos Energy Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "KRYS",
+    "name": "Krystal Biotech, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "LIND",
+    "name": "Lindblad Expeditions Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "MED",
+    "name": "MEDIFAST INC",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "MTUS",
+    "name": "Metallus Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "NJR",
+    "name": "New Jersey Resources Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "OTTR",
+    "name": "Otter Tail Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "SBRA",
+    "name": "Sabra Health Care REIT, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "STRL",
+    "name": "Sterling Infrastructure, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TTI",
+    "name": "Tetra Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "UTL",
+    "name": "Unitil Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "VNOM",
+    "name": "Viper Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "VTS",
+    "name": "Vitesse Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
   }
 ]
