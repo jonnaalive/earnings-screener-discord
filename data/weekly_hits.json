@@ -2476,5 +2476,215 @@
     "name": "Vitesse Energy, Inc.",
     "pass_count": 3,
     "date": "2026-08-04"
+  },
+  {
+    "ticker": "ALGT",
+    "name": "Allegiant Travel Company",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "BV",
+    "name": "BrightView Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "BXC",
+    "name": "BlueLinx Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "CC",
+    "name": "The Chemours Company",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "CE",
+    "name": "Celanese Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "CIX",
+    "name": "CompX International Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "DEI",
+    "name": "Douglas Emmett, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "ECG",
+    "name": "Everus Construction Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "ECO",
+    "name": "Okeanis Eco Tankers Corp.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "FLYW",
+    "name": "Flywire Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "GIC",
+    "name": "Global Industrial Company",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "GSM",
+    "name": "Ferroglobe PLC",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "GWW",
+    "name": "W.W. Grainger, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "HNGE",
+    "name": "Hinge Health, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragran",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "IPI",
+    "name": "Intrepid Potash, Inc",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty Corporation (HC)",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "LSCC",
+    "name": "Lattice Semiconductor Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "NXRT",
+    "name": "NexPoint Residential Trust, Inc.",
+    "pass_count": 4,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "OGS",
+    "name": "ONE Gas, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "PACS",
+    "name": "PACS Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital Corporati",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "SGHC",
+    "name": "Super Group (SGHC) Limited",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "SMP",
+    "name": "Standard Motor Products, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TRNS",
+    "name": "Transcat, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "TX",
+    "name": "Ternium S.A. Ternium S.A.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "WK",
+    "name": "Workiva Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "WTRG",
+    "name": "Essential Utilities, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "WTTR",
+    "name": "Select Water Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "XGN",
+    "name": "Exagen Inc.",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "CSR",
+    "name": "Centerspace",
+    "pass_count": 3,
+    "date": "2026-08-04"
+  },
+  {
+    "ticker": "GPOR",
+    "name": "Gulfport Energy Corporation",
+    "pass_count": 3,
+    "date": "2026-08-04"
   }
 ]
