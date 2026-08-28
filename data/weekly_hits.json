@@ -2686,5 +2686,125 @@
     "name": "Gulfport Energy Corporation",
     "pass_count": 3,
     "date": "2026-08-04"
+  },
+  {
+    "ticker": "BBW",
+    "name": "Build-A-Bear Workshop, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "FINV",
+    "name": "FinVolution Group",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "HQY",
+    "name": "HealthEquity, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "LUCK",
+    "name": "Lucky Strike Entertainment Corporation",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "MBUU",
+    "name": "Malibu Boats, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "RBRK",
+    "name": "Rubrik, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "DCI",
+    "name": "Donaldson Company, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "DY",
+    "name": "Dycom Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "JKS",
+    "name": "JinkoSolar Holding Co., Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "LTRX",
+    "name": "Lantronix, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "SFL",
+    "name": "SFL Corporation Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "CTRN",
+    "name": "Citi Trends, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "HEI",
+    "name": "HEICO Corporation",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "NCNO",
+    "name": "nCino, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-28"
+  },
+  {
+    "ticker": "NOAH",
+    "name": "Noah Holdings Limited",
+    "pass_count": 3,
+    "date": "2026-08-28"
   }
 ]
