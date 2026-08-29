@@ -2812,5 +2812,95 @@
     "name": "Workday, Inc.",
     "pass_count": 3,
     "date": "2026-08-28"
+  },
+  {
+    "ticker": "FINV",
+    "name": "FinVolution Group",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "HQY",
+    "name": "HealthEquity, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "LUCK",
+    "name": "Lucky Strike Entertainment Corporation",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "MBUU",
+    "name": "Malibu Boats, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "RBRK",
+    "name": "Rubrik, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "DCI",
+    "name": "Donaldson Company, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "DY",
+    "name": "Dycom Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "JKS",
+    "name": "JinkoSolar Holding Co., Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "LTRX",
+    "name": "Lantronix, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "OKTA",
+    "name": "Okta, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "SFL",
+    "name": "SFL Corporation Ltd.",
+    "pass_count": 3,
+    "date": "2026-08-29"
+  },
+  {
+    "ticker": "VEEV",
+    "name": "Veeva Systems Inc.",
+    "pass_count": 3,
+    "date": "2026-08-29"
   }
 ]
