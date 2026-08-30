@@ -2902,5 +2902,41 @@
     "name": "Veeva Systems Inc.",
     "pass_count": 3,
     "date": "2026-08-29"
+  },
+  {
+    "ticker": "FINV",
+    "name": "FinVolution Group",
+    "pass_count": 3,
+    "date": "2026-08-30"
+  },
+  {
+    "ticker": "HQY",
+    "name": "HealthEquity, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-30"
+  },
+  {
+    "ticker": "LUCK",
+    "name": "Lucky Strike Entertainment Corporation",
+    "pass_count": 3,
+    "date": "2026-08-30"
+  },
+  {
+    "ticker": "MBUU",
+    "name": "Malibu Boats, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-30"
+  },
+  {
+    "ticker": "RBRK",
+    "name": "Rubrik, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-30"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "pass_count": 3,
+    "date": "2026-08-30"
   }
 ]
