@@ -1,0 +1,29 @@
+name: Turnaround Webhook Test
+
+on:
+  push:
+    paths:
+      - '.github/workflows/turnaround-webhook-test.yml'
+  workflow_dispatch:
+
+jobs:
+  send-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord test
+        env:
+          TURNAROUND_DISCORD_WEBHOOK_URL: ${{ secrets.TURNAROUND_DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request
+          url = os.environ.get('TURNAROUND_DISCORD_WEBHOOK_URL', '')
+          if not url:
+              raise SystemExit('TURNAROUND_DISCORD_WEBHOOK_URL is not set')
+          payload = {
+              'username': '턴어라운드 레이더',
+              'content': '# 🔄 TURNAROUND RADAR — TEST\n**연결 성공**\n턴어라운드 전용 Discord 채널 테스트 메시지입니다.\n\n실제 운영에서는 초기 반전 후보가 4/6점 이상일 때 이 채널로 발송됩니다.'
+          }
+          req = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers={'Content-Type':'application/json','User-Agent':'turnaround-radar-test'}, method='POST')
+          with urllib.request.urlopen(req, timeout=30) as resp:
+              print('Discord status:', resp.status)
+          PY
