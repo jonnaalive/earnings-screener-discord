@@ -2,30 +2,25 @@ name: Earnings Screener
 
 on:
   schedule:
-    # 07:00 KST = 22:00 UTC (전일), 19:00 KST = 10:00 UTC
     - cron: '0 22,10 * * *'
-  workflow_dispatch:  # 수동 실행 가능
+  workflow_dispatch:
 
 jobs:
   run-screener:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: pip
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
       - name: Run Earnings Screener
-        env:
+        env: &bot-env
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_PHONE: ${{ secrets.TELEGRAM_PHONE }}
@@ -33,6 +28,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TURNAROUND_DISCORD_WEBHOOK_URL: ${{ secrets.TURNAROUND_DISCORD_WEBHOOK_URL }}
           TELEGRAM_FOLDER_ID: '0'
           OPENDART_API_KEY: ${{ secrets.OPENDART_API_KEY }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
@@ -42,14 +38,10 @@ jobs:
           LOW_52W_THRESHOLD: '0.05'
           LOG_LEVEL: INFO
           PYTHONIOENCODING: utf-8
-        run: |
-          python -c "
-          import asyncio, logging, sys
-          logging.basicConfig(level=logging.INFO, stream=sys.stdout, format='%(asctime)s [%(name)s] %(levelname)s: %(message)s')
-          from main import run_pipeline
-          asyncio.run(run_pipeline())
-          "
-
+        run: python -c "import asyncio; from main import run_pipeline; asyncio.run(run_pipeline())"
+      - name: Run Turnaround Radar
+        env: *bot-env
+        run: python turnaround_runner.py
       - name: Commit weekly hits
         run: |
           git config user.name "github-actions[bot]"
