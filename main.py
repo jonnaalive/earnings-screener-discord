@@ -186,6 +186,7 @@ async def run_pipeline():
             await sender.send_error(str(e))
         except Exception:
             pass
+        raise
     finally:
         await db.close()
 

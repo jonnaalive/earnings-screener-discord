@@ -150,12 +150,18 @@ class DiscordSender:
 
         sections = TelegramSender.build_report(results, total_collected, run_date)
         sent = 0
+        failures = []
         for chunk in sections:
             try:
                 send_html(self.webhook_url, chunk, username=self.username)
                 sent += 1
             except Exception as e:
                 logger.error("Failed to send message: %s", e)
+                failures.append(e)
+        if failures:
+            raise RuntimeError(
+                f"Discord delivery failed for {len(failures)} of {len(sections)} messages"
+            ) from failures[0]
         logger.info("Sent %d messages to discord", sent)
         return sent
 

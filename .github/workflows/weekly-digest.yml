@@ -6,10 +6,16 @@ on:
     - cron: '0 12 * * 5'
   workflow_dispatch:
 
+concurrency:
+  group: earnings-screener-state
+  cancel-in-progress: false
+
 jobs:
   send-digest:
     runs-on: ubuntu-latest
     timeout-minutes: 3
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -21,6 +27,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
 
       - name: Send Weekly Digest
         env:
