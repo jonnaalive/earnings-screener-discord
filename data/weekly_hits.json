@@ -2974,5 +2974,41 @@
     "name": "Science Applications International Corporation",
     "pass_count": 3,
     "date": "2026-09-02"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "GOLD",
+    "name": "Gold.com, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "MEI",
+    "name": "Methode Electronics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "PHR",
+    "name": "Phreesia, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-02"
   }
 ]
