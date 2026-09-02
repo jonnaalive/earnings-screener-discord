@@ -2956,5 +2956,23 @@
     "name": "Medtronic plc",
     "pass_count": 3,
     "date": "2026-09-01"
+  },
+  {
+    "ticker": "GASS",
+    "name": "StealthGas Inc.",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic plc",
+    "pass_count": 3,
+    "date": "2026-09-02"
+  },
+  {
+    "ticker": "SAIC",
+    "name": "Science Applications International Corporation",
+    "pass_count": 3,
+    "date": "2026-09-02"
   }
 ]
