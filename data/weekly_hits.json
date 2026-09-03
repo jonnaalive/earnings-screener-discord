@@ -3010,5 +3010,89 @@
     "name": "Phreesia, Inc.",
     "pass_count": 3,
     "date": "2026-09-02"
+  },
+  {
+    "ticker": "BRC",
+    "name": "Brady Corporation",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "MOMO",
+    "name": "Hello Group Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "TTC",
+    "name": "The Toro Company",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "WLY",
+    "name": "John Wiley & Sons, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "DAKT",
+    "name": "Daktronics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "GASS",
+    "name": "StealthGas Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "GOLD",
+    "name": "Gold.com, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "MEI",
+    "name": "Methode Electronics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "PHR",
+    "name": "Phreesia, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic plc",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "SAIC",
+    "name": "Science Applications International Corporation",
+    "pass_count": 3,
+    "date": "2026-09-03"
   }
 ]
