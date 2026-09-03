@@ -3094,5 +3094,41 @@
     "name": "Science Applications International Corporation",
     "pass_count": 3,
     "date": "2026-09-03"
+  },
+  {
+    "ticker": "BBCP",
+    "name": "Concrete Pumping Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "CURV",
+    "name": "Torrid Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "GROW",
+    "name": "U.S. Global Investors, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "NX",
+    "name": "Quanex Building Products Corporation",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "SWBI",
+    "name": "Smith & Wesson Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-03"
   }
 ]
