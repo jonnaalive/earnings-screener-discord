@@ -3130,5 +3130,131 @@
     "name": "Zscaler, Inc.",
     "pass_count": 3,
     "date": "2026-09-03"
+  },
+  {
+    "ticker": "HURC",
+    "name": "Hurco Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "BBCP",
+    "name": "Concrete Pumping Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "BRC",
+    "name": "Brady Corporation",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena Corporation",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "CURV",
+    "name": "Torrid Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "EGAN",
+    "name": "eGain Corporation",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "GROW",
+    "name": "U.S. Global Investors, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "NX",
+    "name": "Quanex Building Products Corporation",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "SWBI",
+    "name": "Smith & Wesson Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "TTC",
+    "name": "The Toro Company",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "WLY",
+    "name": "John Wiley & Sons, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "DAKT",
+    "name": "Daktronics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "GASS",
+    "name": "StealthGas Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "GOLD",
+    "name": "Gold.com, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "MEI",
+    "name": "Methode Electronics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "PHR",
+    "name": "Phreesia, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-04"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic plc",
+    "pass_count": 3,
+    "date": "2026-09-04"
   }
 ]
