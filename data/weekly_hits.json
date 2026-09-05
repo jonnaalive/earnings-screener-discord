@@ -232,5 +232,17 @@
     "name": "Phreesia, Inc.",
     "pass_count": 3,
     "date": "2026-09-05"
+  },
+  {
+    "ticker": "EGAN",
+    "name": "eGain Corporation",
+    "pass_count": 3,
+    "date": "2026-09-05"
+  },
+  {
+    "ticker": "PL",
+    "name": "Planet Labs PBC",
+    "pass_count": 3,
+    "date": "2026-09-05"
   }
 ]
