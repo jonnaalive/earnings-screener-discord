@@ -244,5 +244,71 @@
     "name": "Planet Labs PBC",
     "pass_count": 3,
     "date": "2026-09-05"
+  },
+  {
+    "ticker": "HURC",
+    "name": "Hurco Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "BBCP",
+    "name": "Concrete Pumping Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "BRC",
+    "name": "Brady Corporation",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena Corporation",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "EGAN",
+    "name": "eGain Corporation",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "LULU",
+    "name": "lululemon athletica inc.",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "NX",
+    "name": "Quanex Building Products Corporation",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "PL",
+    "name": "Planet Labs PBC",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "TTC",
+    "name": "The Toro Company",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "WLY",
+    "name": "John Wiley & Sons, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-06"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-06"
   }
 ]
