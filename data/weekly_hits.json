@@ -322,5 +322,17 @@
     "name": "ABM Industries Incorporated",
     "pass_count": 3,
     "date": "2026-09-08"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's General Stores, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-08"
+  },
+  {
+    "ticker": "TTAN",
+    "name": "ServiceTitan, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-08"
   }
 ]
