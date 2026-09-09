@@ -334,5 +334,47 @@
     "name": "ServiceTitan, Inc.",
     "pass_count": 3,
     "date": "2026-09-08"
+  },
+  {
+    "ticker": "CHWY",
+    "name": "Chewy, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-09"
+  },
+  {
+    "ticker": "CNM",
+    "name": "Core & Main, Inc.",
+    "pass_count": 4,
+    "date": "2026-09-09"
+  },
+  {
+    "ticker": "KFY",
+    "name": "Korn Ferry",
+    "pass_count": 3,
+    "date": "2026-09-09"
+  },
+  {
+    "ticker": "NNOX",
+    "name": "Nano-X Imaging Ltd.",
+    "pass_count": 3,
+    "date": "2026-09-09"
+  },
+  {
+    "ticker": "OCC",
+    "name": "Optical Cable Corporation",
+    "pass_count": 3,
+    "date": "2026-09-09"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's General Stores, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-09"
+  },
+  {
+    "ticker": "TTAN",
+    "name": "ServiceTitan, Inc.",
+    "pass_count": 4,
+    "date": "2026-09-09"
   }
 ]
