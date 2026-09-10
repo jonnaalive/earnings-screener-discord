@@ -430,5 +430,95 @@
     "name": "Waterdrop Inc.",
     "pass_count": 3,
     "date": "2026-09-09"
+  },
+  {
+    "ticker": "TEN",
+    "name": "Tsakos Energy Navigation Limited",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "AVAV",
+    "name": "AeroVironment, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "CHWY",
+    "name": "Chewy, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "CULP",
+    "name": "Culp, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "GLOO",
+    "name": "Gloo Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "KEQU",
+    "name": "Kewaunee Scientific Corporation",
+    "pass_count": 4,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "NAVN",
+    "name": "Navan, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "OCC",
+    "name": "Optical Cable Corporation",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "RSSS",
+    "name": "Research Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "ABM",
+    "name": "ABM Industries Incorporated",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "AVO",
+    "name": "Mission Produce, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "BRZE",
+    "name": "Braze, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's General Stores, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "MIND",
+    "name": "MIND Technology, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "WDH",
+    "name": "Waterdrop Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
   }
 ]
