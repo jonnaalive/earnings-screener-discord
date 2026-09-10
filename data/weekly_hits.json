@@ -520,5 +520,29 @@
     "name": "Waterdrop Inc.",
     "pass_count": 3,
     "date": "2026-09-10"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "IBEX",
+    "name": "IBEX Limited",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "LPTH",
+    "name": "LightPath Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-10"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "pass_count": 3,
+    "date": "2026-09-10"
   }
 ]
