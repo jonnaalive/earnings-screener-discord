@@ -544,5 +544,131 @@
     "name": "Oracle Corporation",
     "pass_count": 3,
     "date": "2026-09-10"
+  },
+  {
+    "ticker": "HOFT",
+    "name": "Hooker Furnishings Corporation",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "IBEX",
+    "name": "IBEX Limited",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "LPTH",
+    "name": "LightPath Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "TEN",
+    "name": "Tsakos Energy Navigation Limited",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "ASO",
+    "name": "Academy Sports and Outdoors, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "CNM",
+    "name": "Core & Main, Inc.",
+    "pass_count": 4,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "COO",
+    "name": "The Cooper Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "DXLG",
+    "name": "Destination XL Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "KEQU",
+    "name": "Kewaunee Scientific Corporation",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "LMNR",
+    "name": "Limoneira Company",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "OCC",
+    "name": "Optical Cable Corporation",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "RSSS",
+    "name": "Research Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "SUNB",
+    "name": "Sunbelt Rentals Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "ABM",
+    "name": "ABM Industries Incorporated",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "AVO",
+    "name": "Mission Produce, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "BRZE",
+    "name": "Braze, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's General Stores, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "INNV",
+    "name": "InnovAge Holding Corp.",
+    "pass_count": 3,
+    "date": "2026-09-11"
+  },
+  {
+    "ticker": "WDH",
+    "name": "Waterdrop Inc.",
+    "pass_count": 3,
+    "date": "2026-09-11"
   }
 ]
