@@ -22,9 +22,11 @@ def _format_market_cap(value: float | None, currency: str) -> str:
     if value is None or value <= 0:
         return "조회 불가"
     if value >= 1e12:
-        amount = f"{value / 1e12:,.2f}조"
-    elif value >= 1e8:
-        amount = f"{value / 1e8:,.2f}억"
+        amount = f"{value / 1e12:,.2f}T"
+    elif value >= 1e9:
+        amount = f"{value / 1e9:,.2f}B"
+    elif value >= 1e6:
+        amount = f"{value / 1e6:,.2f}M"
     else:
         amount = f"{value:,.0f}"
     return f"{amount} {currency}"
