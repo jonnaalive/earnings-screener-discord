@@ -25,3 +25,31 @@ jobs:
           with urllib.request.urlopen(req, timeout=30) as resp:
               print('Discord status:', resp.status)
           PY
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Send real-format preview (업종/회사소개/시가총액 확인용)
+        env:
+          TURNAROUND_DISCORD_WEBHOOK_URL: ${{ secrets.TURNAROUND_DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          pip install -q requests
+          python - <<'PY'
+          import os
+          from services.turnaround import TurnaroundSignal, build_turnaround_message
+          from services.discord_sender import send_html
+
+          url = os.environ.get('TURNAROUND_DISCORD_WEBHOOK_URL') or os.environ.get('DISCORD_WEBHOOK_URL', '')
+          if not url:
+              raise SystemExit('No Discord webhook is configured')
+          signal = TurnaroundSignal(
+              ticker='UNFI', company_name='United Natural Foods, Inc.', score=4,
+              reasons=['매출 QoQ 성장 +151.2%', '영업이익 QoQ 개선',
+                       '순이익률 2분기 연속 개선 -0.1% → 0.3% → 0.4%', 'EPS 컨센서스 Beat'],
+              description='식료품점 - 식료품/생활용품 유통', market_cap=2.25e9, currency='USD',
+          )
+          message = build_turnaround_message([signal], '2026-09-11 (포맷 미리보기)')
+          send_html(url, message, username='턴어라운드 레이더 (TEST)')
+          print('Sent format preview')
+          PY

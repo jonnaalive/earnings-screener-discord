@@ -13,6 +13,21 @@ class TurnaroundSignal:
     cautions: list[str] = field(default_factory=list)
     current_price: float | None = None
     drawdown_from_high: float | None = None
+    description: str = ""
+    market_cap: float | None = None
+    currency: str = "USD"
+
+
+def _format_market_cap(value: float | None, currency: str) -> str:
+    if value is None or value <= 0:
+        return "조회 불가"
+    if value >= 1e12:
+        amount = f"{value / 1e12:,.2f}조"
+    elif value >= 1e8:
+        amount = f"{value / 1e8:,.2f}억"
+    else:
+        amount = f"{value:,.0f}"
+    return f"{amount} {currency}"
 
 
 def _safe(v):
@@ -101,7 +116,8 @@ def detect_turnaround(fin: QuarterlyFinancials, event: EarningsEvent | None = No
 
     if score<4 or not (revenue_inflection or op_inflection or margin_inflection): return None
     return TurnaroundSignal(fin.ticker,fin.company_name,score,reasons=reasons,cautions=cautions,
-                            current_price=fin.current_price,drawdown_from_high=drawdown)
+                            current_price=fin.current_price,drawdown_from_high=drawdown,
+                            description=fin.description,market_cap=fin.market_cap,currency=fin.currency)
 
 
 def build_turnaround_message(signals, run_date):
@@ -110,6 +126,9 @@ def build_turnaround_message(signals, run_date):
     for s in sorted(signals,key=lambda x:x.score,reverse=True):
         badge="🔥 HIGH" if s.score>=5 else "🟡 WATCH"
         lines += [f"## {badge} · {s.ticker} — {s.company_name}",f"**Turnaround Score {s.score}/{s.max_score}**"]
+        if s.description:
+            lines.append(f"🏢 {s.description}")
+        lines.append(f"💰 시가총액: {_format_market_cap(s.market_cap, s.currency)}")
         lines += [f"• {r}" for r in s.reasons]
         lines += [f"• ⚠️ {c}" for c in s.cautions]
         lines += ["","**→ 턴어라운드 가능성이 커지고 있습니다. 지금 기업 분석을 검토해보세요.**",""]
