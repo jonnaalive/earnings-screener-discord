@@ -226,5 +226,47 @@
     "name": "Sunbelt Rentals Holdings, Inc.",
     "pass_count": 3,
     "date": "2026-09-12"
+  },
+  {
+    "ticker": "MNY",
+    "name": "MoneyHero Limited",
+    "pass_count": 3,
+    "date": "2026-09-13"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "pass_count": 3,
+    "date": "2026-09-13"
+  },
+  {
+    "ticker": "CSBR",
+    "name": "Champions Oncology, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-13"
+  },
+  {
+    "ticker": "FLWS",
+    "name": "1-800-FLOWERS.COM, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-13"
+  },
+  {
+    "ticker": "LOVE",
+    "name": "The Lovesac Company",
+    "pass_count": 3,
+    "date": "2026-09-13"
+  },
+  {
+    "ticker": "SHOE",
+    "name": "Shoe Station Group Inc.",
+    "pass_count": 3,
+    "date": "2026-09-13"
+  },
+  {
+    "ticker": "TEN",
+    "name": "Tsakos Energy Navigation Limited",
+    "pass_count": 3,
+    "date": "2026-09-13"
   }
 ]
