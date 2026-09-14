@@ -268,5 +268,17 @@
     "name": "Tsakos Energy Navigation Limited",
     "pass_count": 3,
     "date": "2026-09-13"
+  },
+  {
+    "ticker": "CODA",
+    "name": "Coda Octopus Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-14"
+  },
+  {
+    "ticker": "MNY",
+    "name": "MoneyHero Limited",
+    "pass_count": 3,
+    "date": "2026-09-14"
   }
 ]
