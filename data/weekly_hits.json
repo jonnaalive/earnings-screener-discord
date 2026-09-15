@@ -280,5 +280,23 @@
     "name": "MoneyHero Limited",
     "pass_count": 3,
     "date": "2026-09-14"
+  },
+  {
+    "ticker": "CODA",
+    "name": "Coda Octopus Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-15"
+  },
+  {
+    "ticker": "PBSV",
+    "name": "Pharma-Bio Serv, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-15"
+  },
+  {
+    "ticker": "PLAY",
+    "name": "Dave & Buster's Entertainment, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-15"
   }
 ]
