@@ -310,5 +310,23 @@
     "name": "Ocean Power Technologies, Inc.",
     "pass_count": 3,
     "date": "2026-09-15"
+  },
+  {
+    "ticker": "OPTT",
+    "name": "Ocean Power Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-16"
+  },
+  {
+    "ticker": "RLGT",
+    "name": "Radiant Logistics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-16"
+  },
+  {
+    "ticker": "VALU",
+    "name": "Value Line, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-16"
   }
 ]
