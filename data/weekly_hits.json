@@ -328,5 +328,41 @@
     "name": "Value Line, Inc.",
     "pass_count": 3,
     "date": "2026-09-16"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar Corporation",
+    "pass_count": 4,
+    "date": "2026-09-17"
+  },
+  {
+    "ticker": "FPS",
+    "name": "Forgent Power Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-17"
+  },
+  {
+    "ticker": "VRA",
+    "name": "Vera Bradley, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-17"
+  },
+  {
+    "ticker": "OPTT",
+    "name": "Ocean Power Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-17"
+  },
+  {
+    "ticker": "RLGT",
+    "name": "Radiant Logistics, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-17"
+  },
+  {
+    "ticker": "VALU",
+    "name": "Value Line, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-17"
   }
 ]
