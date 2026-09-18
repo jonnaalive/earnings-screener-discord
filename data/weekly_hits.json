@@ -370,5 +370,23 @@
     "name": "Evolution Petroleum Corporation",
     "pass_count": 3,
     "date": "2026-09-17"
+  },
+  {
+    "ticker": "EPM",
+    "name": "Evolution Petroleum Corporation",
+    "pass_count": 3,
+    "date": "2026-09-18"
+  },
+  {
+    "ticker": "FPS",
+    "name": "Forgent Power Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-18"
+  },
+  {
+    "ticker": "VRA",
+    "name": "Vera Bradley, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-18"
   }
 ]
