@@ -82,5 +82,11 @@
     "name": "THOR Industries, Inc.",
     "pass_count": 3,
     "date": "2026-09-24"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-24"
   }
 ]
