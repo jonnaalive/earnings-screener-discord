@@ -88,5 +88,47 @@
     "name": "Darden Restaurants, Inc.",
     "pass_count": 3,
     "date": "2026-09-24"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "pass_count": 3,
+    "date": "2026-09-25"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-25"
+  },
+  {
+    "ticker": "LGCY",
+    "name": "Legacy Education Inc.",
+    "pass_count": 3,
+    "date": "2026-09-25"
+  },
+  {
+    "ticker": "FUL",
+    "name": "H.B. Fuller Company",
+    "pass_count": 3,
+    "date": "2026-09-25"
+  },
+  {
+    "ticker": "AYTU",
+    "name": "Aytu BioPharma, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-25"
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone, Inc.",
+    "pass_count": 4,
+    "date": "2026-09-25"
+  },
+  {
+    "ticker": "THO",
+    "name": "THOR Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-25"
   }
 ]
