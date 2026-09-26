@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "pass_count": 3,
+    "date": "2026-09-26"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-26"
+  },
+  {
+    "ticker": "LGCY",
+    "name": "Legacy Education Inc.",
+    "pass_count": 3,
+    "date": "2026-09-26"
+  },
+  {
+    "ticker": "FUL",
+    "name": "H.B. Fuller Company",
+    "pass_count": 3,
+    "date": "2026-09-26"
+  },
+  {
+    "ticker": "SFIX",
+    "name": "Stitch Fix, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-26"
+  }
+]
