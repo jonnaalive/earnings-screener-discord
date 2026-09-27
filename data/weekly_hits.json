@@ -28,5 +28,23 @@
     "name": "Stitch Fix, Inc.",
     "pass_count": 3,
     "date": "2026-09-26"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "pass_count": 3,
+    "date": "2026-09-27"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-27"
+  },
+  {
+    "ticker": "LGCY",
+    "name": "Legacy Education Inc.",
+    "pass_count": 3,
+    "date": "2026-09-27"
   }
 ]
