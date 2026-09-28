@@ -46,5 +46,11 @@
     "name": "Legacy Education Inc.",
     "pass_count": 3,
     "date": "2026-09-27"
+  },
+  {
+    "ticker": "NTWK",
+    "name": "NetSol Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-28"
   }
 ]
