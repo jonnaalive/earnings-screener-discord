@@ -82,5 +82,35 @@
     "name": "CarMax, Inc.",
     "pass_count": 3,
     "date": "2026-09-29"
+  },
+  {
+    "ticker": "KMX",
+    "name": "CarMax, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-30"
+  },
+  {
+    "ticker": "MTN",
+    "name": "Vail Resorts, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-30"
+  },
+  {
+    "ticker": "NTWK",
+    "name": "NetSol Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-30"
+  },
+  {
+    "ticker": "POCI",
+    "name": "Precision Optics Corporation, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-30"
+  },
+  {
+    "ticker": "TRAK",
+    "name": "ReposiTrak, Inc.",
+    "pass_count": 3,
+    "date": "2026-09-30"
   }
 ]
