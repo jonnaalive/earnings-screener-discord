@@ -172,5 +172,23 @@
     "name": "ReposiTrak, Inc.",
     "pass_count": 3,
     "date": "2026-10-01"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "AYI",
+    "name": "Acuity Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "CAG",
+    "name": "Conagra Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
   }
 ]
