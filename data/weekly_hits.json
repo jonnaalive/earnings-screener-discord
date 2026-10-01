@@ -118,5 +118,59 @@
     "name": "Jabil Inc.",
     "pass_count": 3,
     "date": "2026-09-30"
+  },
+  {
+    "ticker": "BSET",
+    "name": "Bassett Furniture Industries, Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival Corporation Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "KMX",
+    "name": "CarMax, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "JEF",
+    "name": "Jefferies Financial Group Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "MTN",
+    "name": "Vail Resorts, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "NTWK",
+    "name": "NetSol Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "ticker": "TRAK",
+    "name": "ReposiTrak, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-01"
   }
 ]
