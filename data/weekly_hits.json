@@ -4,5 +4,35 @@
     "name": "FDS",
     "pass_count": 3,
     "date": "2026-10-03"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "pass_count": 3,
+    "date": "2026-10-03"
+  },
+  {
+    "ticker": "AYI",
+    "name": "Acuity Inc.",
+    "pass_count": 3,
+    "date": "2026-10-03"
+  },
+  {
+    "ticker": "BSET",
+    "name": "Bassett Furniture Industries, Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-03"
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "pass_count": 3,
+    "date": "2026-10-03"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-03"
   }
 ]
