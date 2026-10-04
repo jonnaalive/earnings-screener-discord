@@ -34,5 +34,17 @@
     "name": "Micron Technology, Inc.",
     "pass_count": 3,
     "date": "2026-10-03"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "pass_count": 3,
+    "date": "2026-10-04"
+  },
+  {
+    "ticker": "AYI",
+    "name": "Acuity Inc.",
+    "pass_count": 3,
+    "date": "2026-10-04"
   }
 ]
