@@ -106,5 +106,11 @@
     "name": "Constellation Brands, Inc.",
     "pass_count": 3,
     "date": "2026-10-08"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "pass_count": 4,
+    "date": "2026-10-08"
   }
 ]
