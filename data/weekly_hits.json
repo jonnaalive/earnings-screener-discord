@@ -112,5 +112,47 @@
     "name": "PepsiCo, Inc.",
     "pass_count": 4,
     "date": "2026-10-08"
+  },
+  {
+    "ticker": "ODC",
+    "name": "Oil-Dri Corporation of America",
+    "pass_count": 3,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "pass_count": 4,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "RELL",
+    "name": "Richardson Electronics, Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "AXIL",
+    "name": "AXIL Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "NEOG",
+    "name": "Neogen Corporation",
+    "pass_count": 3,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "RPM",
+    "name": "RPM International Inc.",
+    "pass_count": 3,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-09"
   }
 ]
