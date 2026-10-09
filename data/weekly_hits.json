@@ -154,5 +154,17 @@
     "name": "Constellation Brands, Inc.",
     "pass_count": 3,
     "date": "2026-10-09"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-09"
+  },
+  {
+    "ticker": "TLRY",
+    "name": "Tilray Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-09"
   }
 ]
