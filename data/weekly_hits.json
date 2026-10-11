@@ -34,5 +34,35 @@
     "name": "Richardson Electronics, Ltd.",
     "pass_count": 3,
     "date": "2026-10-10"
+  },
+  {
+    "ticker": "CCEL",
+    "name": "Cryo-Cell International, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-11"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-11"
+  },
+  {
+    "ticker": "ODC",
+    "name": "Oil-Dri Corporation of America",
+    "pass_count": 3,
+    "date": "2026-10-11"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "pass_count": 4,
+    "date": "2026-10-11"
+  },
+  {
+    "ticker": "TLRY",
+    "name": "Tilray Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-11"
   }
 ]
