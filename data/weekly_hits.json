@@ -64,5 +64,17 @@
     "name": "Tilray Brands, Inc.",
     "pass_count": 3,
     "date": "2026-10-11"
+  },
+  {
+    "ticker": "CCEL",
+    "name": "Cryo-Cell International, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-12"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-12"
   }
 ]
