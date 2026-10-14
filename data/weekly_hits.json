@@ -106,5 +106,11 @@
     "name": "Johnson & Johnson",
     "pass_count": 3,
     "date": "2026-10-14"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "pass_count": 3,
+    "date": "2026-10-14"
   }
 ]
