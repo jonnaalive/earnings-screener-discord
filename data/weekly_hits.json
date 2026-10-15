@@ -142,5 +142,41 @@
     "name": "Johnson & Johnson",
     "pass_count": 3,
     "date": "2026-10-15"
+  },
+  {
+    "ticker": "CMC",
+    "name": "Commercial Metals Company",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "MAN",
+    "name": "ManpowerGroup Inc.",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "SOTK",
+    "name": "Sono-Tek Corporation",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "WINA",
+    "name": "Winmark Corporation",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "ACI",
+    "name": "Albertsons Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-15"
   }
 ]
