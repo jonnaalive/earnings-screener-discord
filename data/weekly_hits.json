@@ -112,5 +112,35 @@
     "name": "Fastenal Company",
     "pass_count": 3,
     "date": "2026-10-14"
+  },
+  {
+    "ticker": "EDUC",
+    "name": "Educational Development Corporation",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "AZZ",
+    "name": "AZZ Inc.",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "FBK",
+    "name": "FB Financial Corporation",
+    "pass_count": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "pass_count": 3,
+    "date": "2026-10-15"
   }
 ]
