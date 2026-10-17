@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "ticker": "CMC",
+    "name": "Commercial Metals Company",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt Transport Services, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "MAN",
+    "name": "ManpowerGroup Inc.",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis, Inc.",
+    "pass_count": 4,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "EDUC",
+    "name": "Educational Development Corporation",
+    "pass_count": 4,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal Company",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "SOTK",
+    "name": "Sono-Tek Corporation",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  },
+  {
+    "ticker": "WINA",
+    "name": "Winmark Corporation",
+    "pass_count": 3,
+    "date": "2026-10-17"
+  }
+]
