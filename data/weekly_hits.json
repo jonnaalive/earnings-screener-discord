@@ -82,5 +82,29 @@
     "name": "Prologis, Inc.",
     "pass_count": 4,
     "date": "2026-10-18"
+  },
+  {
+    "ticker": "CCK",
+    "name": "Crown Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-20"
+  },
+  {
+    "ticker": "CLF",
+    "name": "Cleveland-Cliffs Inc.",
+    "pass_count": 3,
+    "date": "2026-10-20"
+  },
+  {
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-20"
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-20"
   }
 ]
