@@ -178,5 +178,77 @@
     "name": "Steel Dynamics, Inc.",
     "pass_count": 3,
     "date": "2026-10-21"
+  },
+  {
+    "ticker": "IART",
+    "name": "Integra LifeSciences Holdings Corporation",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "LAD",
+    "name": "Lithia Motors, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "MHO",
+    "name": "M/I Homes, Inc.",
+    "pass_count": 4,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "WAB",
+    "name": "Westinghouse Air Brake Technologies Corporation",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "WGO",
+    "name": "Winnebago Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "ELS",
+    "name": "Equity LifeStyle Properties, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-21"
   }
 ]
