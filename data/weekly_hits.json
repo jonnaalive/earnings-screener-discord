@@ -532,5 +532,179 @@
     "name": "Steel Dynamics, Inc.",
     "pass_count": 3,
     "date": "2026-10-22"
+  },
+  {
+    "ticker": "AAL",
+    "name": "American Airlines Group Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion plc",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "AMBP",
+    "name": "Ardagh Metal Packaging S.A.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "COCO",
+    "name": "The Vita Coco Company, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "CRS",
+    "name": "Carpenter Technology Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "CURB",
+    "name": "Curbline Properties Corp.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "IIIN",
+    "name": "Insteel Industries Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "LNN",
+    "name": "Lindsay Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "MSM",
+    "name": "MSC Industrial Direct Co., Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "POOL",
+    "name": "Pool Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "R",
+    "name": "Ryder System, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-on Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply Company",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "TTMI",
+    "name": "TTM Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "VC",
+    "name": "Visteon Corporation",
+    "pass_count": 4,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "QGEN",
+    "name": "Qiagen N.V.",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "STC",
+    "name": "Stewart Information Services Corporation",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "pass_count": 3,
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "HTLD",
+    "name": "Heartland Express, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-22"
   }
 ]
