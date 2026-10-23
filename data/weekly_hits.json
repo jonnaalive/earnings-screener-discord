@@ -1204,5 +1204,47 @@
     "name": "Vicor Corporation",
     "pass_count": 3,
     "date": "2026-10-23"
+  },
+  {
+    "ticker": "EAF",
+    "name": "GrafTech International Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-23"
+  },
+  {
+    "ticker": "FLG",
+    "name": "Flagstar Bank, National Association",
+    "pass_count": 3,
+    "date": "2026-10-23"
+  },
+  {
+    "ticker": "GNTX",
+    "name": "Gentex Corporation",
+    "pass_count": 3,
+    "date": "2026-10-23"
+  },
+  {
+    "ticker": "GRC",
+    "name": "The Gorman-Rupp Company",
+    "pass_count": 3,
+    "date": "2026-10-23"
+  },
+  {
+    "ticker": "SLB",
+    "name": "SLB N.V.",
+    "pass_count": 3,
+    "date": "2026-10-23"
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-23"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Outdoor Corporation",
+    "pass_count": 3,
+    "date": "2026-10-23"
   }
 ]
