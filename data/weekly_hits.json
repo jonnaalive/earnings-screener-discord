@@ -730,5 +730,47 @@
     "name": "Honeywell International Inc.",
     "pass_count": 3,
     "date": "2026-10-25"
+  },
+  {
+    "ticker": "ARLP",
+    "name": "Alliance Resource Partners, L.P.",
+    "pass_count": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "ticker": "DEA",
+    "name": "Easterly Government Properties, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "ticker": "EAF",
+    "name": "GrafTech International Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "ticker": "FLG",
+    "name": "Flagstar Bank, National Association",
+    "pass_count": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "ticker": "GNTX",
+    "name": "Gentex Corporation",
+    "pass_count": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "ticker": "GRC",
+    "name": "The Gorman-Rupp Company",
+    "pass_count": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "ticker": "SLB",
+    "name": "SLB N.V.",
+    "pass_count": 3,
+    "date": "2026-10-26"
   }
 ]
