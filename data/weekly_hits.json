@@ -772,5 +772,89 @@
     "name": "SLB N.V.",
     "pass_count": 3,
     "date": "2026-10-26"
+  },
+  {
+    "ticker": "AEYE",
+    "name": "AudioEye, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "AMKR",
+    "name": "Amkor Technology, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "ARLP",
+    "name": "Alliance Resource Partners, L.P.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "CTOS",
+    "name": "Custom Truck One Source, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "DEA",
+    "name": "Easterly Government Properties, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "DORM",
+    "name": "Dorman Products, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "FLXS",
+    "name": "Flexsteel Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "GBX",
+    "name": "The Greenbrier Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "HWKN",
+    "name": "Hawkins, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "KFRC",
+    "name": "Kforce Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor Corporation",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "PDM",
+    "name": "Piedmont Realty Trust, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "SSD",
+    "name": "Simpson Manufacturing Co., Inc.",
+    "pass_count": 3,
+    "date": "2026-10-27"
+  },
+  {
+    "ticker": "WHR",
+    "name": "Whirlpool Corporation",
+    "pass_count": 4,
+    "date": "2026-10-27"
   }
 ]
