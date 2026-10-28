@@ -1396,5 +1396,263 @@
     "name": "Whirlpool Corporation",
     "pass_count": 3,
     "date": "2026-10-28"
+  },
+  {
+    "ticker": "AXGN",
+    "name": "Axogen, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "BLCO",
+    "name": "Bausch + Lomb Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "BLKB",
+    "name": "Blackbaud, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "CHEF",
+    "name": "The Chefs' Warehouse, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "CLH",
+    "name": "Clean Harbors, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "DBD",
+    "name": "Diebold Nixdorf, Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "EXTR",
+    "name": "Extreme Networks, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "FELE",
+    "name": "Franklin Electric Co., Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "HAYW",
+    "name": "Hayward Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "JLL",
+    "name": "Jones Lang LaSalle Incorporated",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "JMKE",
+    "name": "Jersey Mike's Subs Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "KEX",
+    "name": "Kirby Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "LFUS",
+    "name": "Littelfuse, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International Inc.",
+    "pass_count": 4,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "MGPI",
+    "name": "MGP Ingredients, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion Freight Line, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "OSW",
+    "name": "OneSpaWorld Holdings Limited",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "PAG",
+    "name": "Penske Automotive Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "SCL",
+    "name": "Stepan Company",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "SHEN",
+    "name": "Shenandoah Telecommunications Company",
+    "pass_count": 4,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "SITE",
+    "name": "SiteOne Landscape Supply, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "STNG",
+    "name": "Scorpio Tankers Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "SW",
+    "name": "Smurfit Westrock Plc",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "TEX",
+    "name": "Terex Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "TP",
+    "name": "Ticketplus Ltd.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "ULCC",
+    "name": "Frontier Group Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv Holdings Co",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "WING",
+    "name": "Wingstop Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy Corporation",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "OI",
+    "name": "O-I Glass, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "AGYS",
+    "name": "Agilysys, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "HTO",
+    "name": "H2O America",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "NE",
+    "name": "Noble Corporation plc",
+    "pass_count": 3,
+    "date": "2026-10-28"
+  },
+  {
+    "ticker": "RMBS",
+    "name": "Rambus Inc.",
+    "pass_count": 3,
+    "date": "2026-10-28"
   }
 ]
