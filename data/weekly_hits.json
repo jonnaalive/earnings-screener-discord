@@ -970,5 +970,11 @@
     "name": "Cactus, Inc.",
     "pass_count": 3,
     "date": "2026-10-31"
+  },
+  {
+    "ticker": "CDP",
+    "name": "COPT Defense Properties",
+    "pass_count": 3,
+    "date": "2026-10-31"
   }
 ]
