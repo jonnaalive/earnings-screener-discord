@@ -1600,5 +1600,137 @@
     "name": "Xerox Holdings Corporation",
     "pass_count": 3,
     "date": "2026-11-01"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "AN",
+    "name": "AutoNation, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "AUPH",
+    "name": "Aurinia Pharmaceuticals Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "CCEC",
+    "name": "Capital Clean Energy Carriers Corp.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight Co., Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive Company",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "CRI",
+    "name": "Carter's, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "DV",
+    "name": "DoubleVerify Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "GTES",
+    "name": "Gates Industrial Corporation Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "HESM",
+    "name": "Hess Midstream LP",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell Industries N.V.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "NVT",
+    "name": "nVent Electric plc",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "NWL",
+    "name": "Newell Brands Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "OIS",
+    "name": "Oil States International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "RBC",
+    "name": "RBC Bearings Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "SMP",
+    "name": "Standard Motor Products, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "SXT",
+    "name": "Sensient Technologies Corporation",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "TXNM",
+    "name": "TXNM Energy, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "WT",
+    "name": "WisdomTree, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "XOM",
+    "name": "ExxonMobil Holdings Corporation",
+    "pass_count": 3,
+    "date": "2026-11-02"
   }
 ]
