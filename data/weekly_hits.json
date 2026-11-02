@@ -1732,5 +1732,71 @@
     "name": "ExxonMobil Holdings Corporation",
     "pass_count": 3,
     "date": "2026-11-02"
+  },
+  {
+    "ticker": "AXSM",
+    "name": "Axsome Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "CHH",
+    "name": "Choice Hotels International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "III",
+    "name": "Information Services Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "KOS",
+    "name": "Kosmos Energy Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "NSSC",
+    "name": "Napco Security Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "TATT",
+    "name": "TAT Technologies Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "TEM",
+    "name": "Tempus AI, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "ticker": "TSEM",
+    "name": "Tower Semiconductor Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-02"
   }
 ]
