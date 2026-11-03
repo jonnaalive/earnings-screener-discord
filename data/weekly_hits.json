@@ -2110,5 +2110,209 @@
     "name": "V2X, Inc.",
     "pass_count": 3,
     "date": "2026-11-03"
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv PLC",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ARVN",
+    "name": "Arvinas, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ASC",
+    "name": "Ardmore Shipping Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CMCO",
+    "name": "Columbus McKinnon Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CNK",
+    "name": "Cinemark Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CVI",
+    "name": "CVR Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "DT",
+    "name": "Dynatrace, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "FWRG",
+    "name": "First Watch Restaurant Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "GPK",
+    "name": "Graphic Packaging Holding Company",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "HNI",
+    "name": "HNI Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "IEP",
+    "name": "Icahn Enterprises L.P.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "IPGP",
+    "name": "IPG Photonics Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "KNF",
+    "name": "Knife River Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "LGIH",
+    "name": "LGI Homes, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "MDGL",
+    "name": "Madrigal Pharmaceuticals, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "MPLX",
+    "name": "MPLX LP",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "PAX",
+    "name": "Patria Investments Limited",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "RRX",
+    "name": "Regal Rexnord Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "SHC",
+    "name": "Sotera Health Company",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "UAN",
+    "name": "CVR Partners, LP",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ULS",
+    "name": "UL Solutions Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "USAC",
+    "name": "USA Compression Partners, LP",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "XIFR",
+    "name": "XPLR Infrastructure, LP",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ALG",
+    "name": "Alamo Group Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
   }
 ]
