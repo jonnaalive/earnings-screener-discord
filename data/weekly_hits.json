@@ -1798,5 +1798,317 @@
     "name": "Tower Semiconductor Ltd.",
     "pass_count": 3,
     "date": "2026-11-02"
+  },
+  {
+    "ticker": "AEIS",
+    "name": "Advanced Energy Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "AESI",
+    "name": "Atlas Energy Solutions Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "AHRT",
+    "name": "AH REALTY TRUST INC",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ALSN",
+    "name": "Allison Transmission Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "AXSM",
+    "name": "Axsome Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "BCC",
+    "name": "Boise Cascade Company",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "BLZE",
+    "name": "Backblaze, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "BVS",
+    "name": "Bioventus Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CALX",
+    "name": "Calix, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CE",
+    "name": "Celanese Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CHH",
+    "name": "Choice Hotels International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CRC",
+    "name": "California Resources Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CRGY",
+    "name": "Crescent Energy Company",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CSR",
+    "name": "Centerspace",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "CWH",
+    "name": "Camping World Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "FN",
+    "name": "Fabrinet",
+    "pass_count": 4,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "HLMN",
+    "name": "Hillman Solutions Corp.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "HNGE",
+    "name": "Hinge Health, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "HSTM",
+    "name": "HealthStream, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "HUN",
+    "name": "Huntsman Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "IBTA",
+    "name": "Ibotta, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ICHR",
+    "name": "Ichor Holdings, Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "III",
+    "name": "Information Services Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "IRT",
+    "name": "Independence Realty Trust, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "KOS",
+    "name": "Kosmos Energy Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "MSA",
+    "name": "MSA Safety Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "MTUS",
+    "name": "Metallus Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "NSSC",
+    "name": "Napco Security Technologies, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor Corporation",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "PAY",
+    "name": "Paymentus Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "PLOW",
+    "name": "Douglas Dynamics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "PPLI",
+    "name": "People Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "RHP",
+    "name": "Ryman Hospitality Properties, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "RNW",
+    "name": "ReNew Energy Global Plc",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TATT",
+    "name": "TAT Technologies Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TBBB",
+    "name": "BBB Foods Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TCMD",
+    "name": "Tactile Systems Technology, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TEM",
+    "name": "Tempus AI, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TNC",
+    "name": "Tennant Company",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TSEM",
+    "name": "Tower Semiconductor Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TTI",
+    "name": "TETRA Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "TVTX",
+    "name": "Travere Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "UMH",
+    "name": "UMH Properties, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "VAL",
+    "name": "Valaris Limited",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "VNOM",
+    "name": "Viper Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "VTS",
+    "name": "Vitesse Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
+  },
+  {
+    "ticker": "VVX",
+    "name": "V2X, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-03"
   }
 ]
