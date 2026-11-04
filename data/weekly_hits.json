@@ -3172,5 +3172,329 @@
     "name": "V2X, Inc.",
     "pass_count": 3,
     "date": "2026-11-04"
+  },
+  {
+    "ticker": "ADV",
+    "name": "Advantage Solutions Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "ASIX",
+    "name": "AdvanSix Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "ATHM",
+    "name": "Autohome Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "AVNT",
+    "name": "Avient Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "AVT",
+    "name": "Avnet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "BCO",
+    "name": "The Brink's Company",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "BCRX",
+    "name": "BioCryst Pharmaceuticals, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "BEPC",
+    "name": "Brookfield Renewable Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "ECX",
+    "name": "ECARX Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric Co.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "EXP",
+    "name": "Eagle Materials Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "FLOC",
+    "name": "Flowco Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "FSTR",
+    "name": "L.B. Foster Company",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "GOLF",
+    "name": "Acushnet Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "HRMY",
+    "name": "Harmony Biosciences Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "HVT",
+    "name": "Haverty Furniture Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "HZO",
+    "name": "MarineMax, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "KMT",
+    "name": "Kennametal Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "LIVN",
+    "name": "LivaNova PLC",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "MTRN",
+    "name": "Materion Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "NATL",
+    "name": "NCR Atleos Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "NMM",
+    "name": "Navios Maritime Partners L.P.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "NNN",
+    "name": "NNN REIT, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "NOMD",
+    "name": "Nomad Foods Limited",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "OC",
+    "name": "Owens Corning",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "OPCH",
+    "name": "Option Care Health, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "PFGC",
+    "name": "Performance Food Group Company",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "PRGO",
+    "name": "Perrigo Company plc",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "RAL",
+    "name": "Ralliant Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "REYN",
+    "name": "Reynolds Consumer Products Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "SDHC",
+    "name": "Smith Douglas Homes Corp.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "SEDG",
+    "name": "SolarEdge Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "SFL",
+    "name": "SFL Corporation Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "SOLS",
+    "name": "Solstice Advanced Materials, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "STIM",
+    "name": "Neuronetics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "TSQ",
+    "name": "Townsquare Media, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "URGN",
+    "name": "UroGen Pharma Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "UTHR",
+    "name": "United Therapeutics Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "VAC",
+    "name": "Marriott Vacations Worldwide Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "VGNT",
+    "name": "Versigent PLC",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "W",
+    "name": "Wayfair Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "WLK",
+    "name": "Westlake Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "XPEL",
+    "name": "XPEL, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "YOU",
+    "name": "Clear Secure, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer-Daniels-Midland Company",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "OHI",
+    "name": "Omega Healthcare Investors, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "ADEA",
+    "name": "Adeia Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "BWXT",
+    "name": "BWX Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "LSCC",
+    "name": "Lattice Semiconductor Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "NBIX",
+    "name": "Neurocrine Biosciences, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income Corporation",
+    "pass_count": 3,
+    "date": "2026-11-04"
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-04"
   }
 ]
