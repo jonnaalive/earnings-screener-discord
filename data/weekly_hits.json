@@ -976,5 +976,83 @@
     "name": "Ziff Davis, Inc.",
     "pass_count": 3,
     "date": "2026-11-08"
+  },
+  {
+    "ticker": "ALGS",
+    "name": "Aligos Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "ASTI",
+    "name": "Ascent Solar Technologies, Inc",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "BWMN",
+    "name": "Bowman Consulting Group Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "MMI",
+    "name": "Marcus & Millichap, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne Corporation",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "BHF",
+    "name": "Brighthouse Financial, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "GTE",
+    "name": "Gran Tierra Energy Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "HAE",
+    "name": "Haemonetics Corporation",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "OESX",
+    "name": "Orion Energy Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "PAR",
+    "name": "PAR Technology Corporation",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "PTGX",
+    "name": "Protagonist Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
+  },
+  {
+    "ticker": "RIGL",
+    "name": "Rigel Pharmaceuticals, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-08"
   }
 ]
