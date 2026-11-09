@@ -1174,5 +1174,149 @@
     "name": "VEON Ltd.",
     "pass_count": 3,
     "date": "2026-11-09"
+  },
+  {
+    "ticker": "AMG",
+    "name": "Affiliated Managers Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "CEVA",
+    "name": "CEVA, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "CNH",
+    "name": "CNH Industrial N.V.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "CTEV",
+    "name": "Claritev Corporation",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "DCTH",
+    "name": "Delcath Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "FERG",
+    "name": "Ferguson Enterprises Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "GCMG",
+    "name": "GCM Grosvenor Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "HRTX",
+    "name": "Heron Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "KGS",
+    "name": "Kodiak Gas Services, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "KMDA",
+    "name": "Kamada Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "MRT",
+    "name": "Marti Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "NESR",
+    "name": "National Energy Services Reunited Corp.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "OFIX",
+    "name": "Orthofix Medical Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "SEAT",
+    "name": "Vivid Seats Inc.",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "SGC",
+    "name": "Superior Group of Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "SGI",
+    "name": "Somnigroup International Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "VFF",
+    "name": "Village Farms International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "VIA",
+    "name": "Via Transportation, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "VRTS",
+    "name": "Virtus Investment Partners, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "WTTR",
+    "name": "Select Water Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "RDNT",
+    "name": "RadNet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Templeton Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "PSQH",
+    "name": "PSQ Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
   }
 ]
