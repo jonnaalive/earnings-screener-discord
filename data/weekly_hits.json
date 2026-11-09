@@ -1054,5 +1054,125 @@
     "name": "Rigel Pharmaceuticals, Inc.",
     "pass_count": 3,
     "date": "2026-11-08"
+  },
+  {
+    "ticker": "AD",
+    "name": "Array Digital Infrastructure, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "AIRS",
+    "name": "AirSculpt Technologies, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "ALGS",
+    "name": "Aligos Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "ANIK",
+    "name": "Anika Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "ASTI",
+    "name": "Ascent Solar Technologies, Inc",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "ATMU",
+    "name": "Atmus Filtration Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "AWX",
+    "name": "Avalon Holdings Corporation",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "BWMN",
+    "name": "Bowman Consulting Group Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "CLMT",
+    "name": "Calumet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "DCH",
+    "name": "Dauch Corporation",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "DK",
+    "name": "Delek US Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "GTN",
+    "name": "Gray Media, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "HE",
+    "name": "Hawaiian Electric Industries, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "MMI",
+    "name": "Marcus & Millichap, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "SELF",
+    "name": "Global Self Storage, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "SHO",
+    "name": "Sunstone Hotel Investors, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne Corporation",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "TILE",
+    "name": "Interface, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "TTGT",
+    "name": "TechTarget, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-09"
+  },
+  {
+    "ticker": "VEON",
+    "name": "VEON Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-09"
   }
 ]
