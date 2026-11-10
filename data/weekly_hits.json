@@ -1318,5 +1318,311 @@
     "name": "PSQ Holdings, Inc.",
     "pass_count": 3,
     "date": "2026-11-09"
+  },
+  {
+    "ticker": "ALTG",
+    "name": "Alta Equipment Group Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "AMG",
+    "name": "Affiliated Managers Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "AMRC",
+    "name": "Ameresco, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "BETR",
+    "name": "Better Home & Finance Holding Company",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "BTGO",
+    "name": "BitGo Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "BW",
+    "name": "Babcock & Wilcox Enterprises, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "CEVA",
+    "name": "CEVA, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "CSQR",
+    "name": "Csquare, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "CWEN",
+    "name": "Clearway Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "CWST",
+    "name": "Casella Waste Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "DCTH",
+    "name": "Delcath Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "EQPT",
+    "name": "EquipmentShare.com Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "ETD",
+    "name": "Ethan Allen Interiors Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "FF",
+    "name": "FutureFuel Corp.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "GCMG",
+    "name": "GCM Grosvenor Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "GRPN",
+    "name": "Groupon, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "HFFG",
+    "name": "HF Foods Group Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "HPK",
+    "name": "HighPeak Energy, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "HRTX",
+    "name": "Heron Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "IMXI",
+    "name": "International Money Express, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "KMDA",
+    "name": "Kamada Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "LINE",
+    "name": "Lineage, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "LTRX",
+    "name": "Lantronix, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "MAPS",
+    "name": "WM Technology, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "MNDY",
+    "name": "monday.com Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "MRT",
+    "name": "Marti Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "NESR",
+    "name": "National Energy Services Reunited Corp.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "NINE",
+    "name": "Nine Energy Service, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "OFIX",
+    "name": "Orthofix Medical Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "ONTO",
+    "name": "Onto Innovation Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "OPAL",
+    "name": "OPAL Fuels Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "OSUR",
+    "name": "OraSure Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "PAAI",
+    "name": "Paradium AI, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "PAYS",
+    "name": "Paysign, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "PUBM",
+    "name": "PubMatic, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "RLGT",
+    "name": "Radiant Logistics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "RNGR",
+    "name": "Ranger Energy Services, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "SB",
+    "name": "Safe Bulkers, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "SGC",
+    "name": "Superior Group of Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "SGI",
+    "name": "Somnigroup International Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "SMC",
+    "name": "Summit Midstream Corporation",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "TTD",
+    "name": "The Trade Desk, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "VFF",
+    "name": "Village Farms International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "VIA",
+    "name": "Via Transportation, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "VRTS",
+    "name": "Virtus Investment Partners, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "WGS",
+    "name": "GeneDx Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "WTTR",
+    "name": "Select Water Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "ZETA",
+    "name": "Zeta Global Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "ZIP",
+    "name": "ZipRecruiter, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "RDNT",
+    "name": "RadNet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
   }
 ]
