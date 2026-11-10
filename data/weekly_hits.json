@@ -1624,5 +1624,113 @@
     "name": "RadNet, Inc.",
     "pass_count": 3,
     "date": "2026-11-10"
+  },
+  {
+    "ticker": "ACCS",
+    "name": "ACCESS Newswire Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "ALH",
+    "name": "Alliance Laundry Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "AVNW",
+    "name": "Aviat Networks, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "GILT",
+    "name": "Gilat Satellite Networks Ltd.",
+    "pass_count": 4,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "HBIO",
+    "name": "Harvard Bioscience, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "JBI",
+    "name": "Janus International Group, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "LEGN",
+    "name": "Legend Biotech Corporation",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "LQDA",
+    "name": "Liquidia Corporation",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "SBH",
+    "name": "Sally Beauty Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "UONEK",
+    "name": "Urban One, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "WYFI",
+    "name": "WhiteFiber, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "XGN",
+    "name": "Exagen Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "CHRS",
+    "name": "Coherus Oncology, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "HYPR",
+    "name": "Hyperfine, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "IHRT",
+    "name": "iHeartMedia, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "JRVR",
+    "name": "James River Group Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "LDI",
+    "name": "loanDepot, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-10"
+  },
+  {
+    "ticker": "SCM",
+    "name": "Stellus Capital Investment Corporation",
+    "pass_count": 3,
+    "date": "2026-11-10"
   }
 ]
