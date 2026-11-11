@@ -2266,5 +2266,47 @@
     "name": "Zeta Global Holdings Corp.",
     "pass_count": 3,
     "date": "2026-11-11"
+  },
+  {
+    "ticker": "AEBI",
+    "name": "Aebi Schmidt Holding AG",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "CSTE",
+    "name": "Caesarstone Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "EDRY",
+    "name": "EuroDry Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "FLNG",
+    "name": "FLEX LNG Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GGR",
+    "name": "Gogoro Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "INMD",
+    "name": "InMode Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "VLN",
+    "name": "Valens Semiconductor Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
   }
 ]
