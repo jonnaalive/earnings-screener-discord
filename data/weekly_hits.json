@@ -1732,5 +1732,539 @@
     "name": "Stellus Capital Investment Corporation",
     "pass_count": 3,
     "date": "2026-11-10"
+  },
+  {
+    "ticker": "ACCS",
+    "name": "ACCESS Newswire Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "AIRG",
+    "name": "Airgain, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "ALH",
+    "name": "Alliance Laundry Holdings Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "AMPX",
+    "name": "Amprius Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "ATRO",
+    "name": "Astronics Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "AVNW",
+    "name": "Aviat Networks, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "AZTA",
+    "name": "Azenta, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "BEEP",
+    "name": "Mobile Infrastructure Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "BRCB",
+    "name": "Black Rock Coffee Bar, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "BV",
+    "name": "BrightView Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "CLFD",
+    "name": "Clearfield, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "CRWV",
+    "name": "CoreWeave, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "DLPN",
+    "name": "Dolphin Entertainment, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "EML",
+    "name": "The Eastern Company",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "EPM",
+    "name": "Evolution Petroleum Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GENK",
+    "name": "GEN Restaurant Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GILT",
+    "name": "Gilat Satellite Networks Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GO",
+    "name": "Grocery Outlet Holding Corp.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GROV",
+    "name": "Grove Collaborative Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GRWG",
+    "name": "GrowGeneration Corp.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "HBIO",
+    "name": "Harvard Bioscience, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "JBI",
+    "name": "Janus International Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "KRMD",
+    "name": "KORU Medical Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "LNSR",
+    "name": "LENSAR, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "LQDA",
+    "name": "Liquidia Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MCHX",
+    "name": "Marchex, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MRCY",
+    "name": "Mercury Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "ONON",
+    "name": "On Holding AG",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "RDNW",
+    "name": "RideNow Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "REED",
+    "name": "Reed's, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "REZI",
+    "name": "Resideo Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SBH",
+    "name": "Sally Beauty Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SEER",
+    "name": "Seer, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SND",
+    "name": "Smart Sand, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SPIR",
+    "name": "Spire Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "STXS",
+    "name": "Stereotaxis, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TELA",
+    "name": "TELA Bio, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TOFB",
+    "name": "Tofutti Brands Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "UONEK",
+    "name": "Urban One, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "VG",
+    "name": "Venture Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "WIX",
+    "name": "Wix.com Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "WYFI",
+    "name": "WhiteFiber, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "AIOT",
+    "name": "PowerFleet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "AMRC",
+    "name": "Ameresco, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "BTGO",
+    "name": "BitGo Holdings, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "CSQR",
+    "name": "Csquare, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "DCTH",
+    "name": "Delcath Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "DHT",
+    "name": "DHT Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "DSP",
+    "name": "Viant Technology Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "EXOD",
+    "name": "Exodus Movement, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "FWRD",
+    "name": "Forward Air Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GCMG",
+    "name": "GCM Grosvenor Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "GRPN",
+    "name": "Groupon, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "HIMS",
+    "name": "Hims & Hers Health, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "HNRG",
+    "name": "Hallador Energy Company",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "HROW",
+    "name": "Harrow, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "HYPR",
+    "name": "Hyperfine, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "IHRT",
+    "name": "iHeartMedia, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "IMXI",
+    "name": "International Money Express, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "KGS",
+    "name": "Kodiak Gas Services, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "KLTR",
+    "name": "Kaltura, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "KMDA",
+    "name": "Kamada Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "LINC",
+    "name": "Lincoln Educational Services Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MLAB",
+    "name": "Mesa Laboratories, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MNDY",
+    "name": "monday.com Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MPAA",
+    "name": "Motorcar Parts of America, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MRT",
+    "name": "Marti Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "MYO",
+    "name": "Myomo, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "NESR",
+    "name": "National Energy Services Reunited Corp.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "OPAL",
+    "name": "OPAL Fuels Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "PAYS",
+    "name": "Paysign, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "PUBM",
+    "name": "PubMatic, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "QLYS",
+    "name": "Qualys, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "QMCO",
+    "name": "Quantum Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "RPAY",
+    "name": "Repay Holdings Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SB",
+    "name": "Safe Bulkers, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SGI",
+    "name": "Somnigroup International Inc.",
+    "pass_count": 4,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "SMC",
+    "name": "Summit Midstream Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TGTX",
+    "name": "TG Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TH",
+    "name": "Target Hospitality Corp.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TLS",
+    "name": "Telos Corporation",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "TTEC",
+    "name": "TTEC Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "VFF",
+    "name": "Village Farms International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "WBTN",
+    "name": "WEBTOON Entertainment Inc.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "WGS",
+    "name": "GeneDx Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-11"
+  },
+  {
+    "ticker": "ZETA",
+    "name": "Zeta Global Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-11"
   }
 ]
