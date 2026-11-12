@@ -2308,5 +2308,515 @@
     "name": "Valens Semiconductor Ltd.",
     "pass_count": 3,
     "date": "2026-11-11"
+  },
+  {
+    "ticker": "AEBI",
+    "name": "Aebi Schmidt Holding AG",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "CSTE",
+    "name": "Caesarstone Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "CURI",
+    "name": "CuriosityStream Inc.",
+    "pass_count": 4,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "DGII",
+    "name": "Digi International Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ECO",
+    "name": "Okeanis Eco Tankers Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "EDRY",
+    "name": "EuroDry Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "FLNG",
+    "name": "FLEX LNG Ltd.",
+    "pass_count": 4,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "GGR",
+    "name": "Gogoro Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ICU",
+    "name": "SeaStar Medical Holding Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "INMD",
+    "name": "InMode Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MRMD",
+    "name": "MariMed Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "STRR",
+    "name": "Star Equity Holdings, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TISI",
+    "name": "Team, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TTEK",
+    "name": "Tetra Tech, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "VLN",
+    "name": "Valens Semiconductor Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ACCS",
+    "name": "ACCESS Newswire Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "AIRG",
+    "name": "Airgain, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ANGX",
+    "name": "Angel Studios, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "BEEP",
+    "name": "Mobile Infrastructure Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "BTDR",
+    "name": "Bitdeer Technologies Group",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "BV",
+    "name": "BrightView Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "DLPN",
+    "name": "Dolphin Entertainment, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "GEVO",
+    "name": "Gevo, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "GROV",
+    "name": "Grove Collaborative Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "GRWG",
+    "name": "GrowGeneration Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "KUST",
+    "name": "Kustom Entertainment, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MCFT",
+    "name": "MasterCraft Boat Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MXCT",
+    "name": "MaxCyte, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ONON",
+    "name": "On Holding AG",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SBH",
+    "name": "Sally Beauty Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SE",
+    "name": "Sea Limited",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SEER",
+    "name": "Seer, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SKYH",
+    "name": "Sky Harbour Group Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TLSI",
+    "name": "TriSalus Life Sciences, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TOFB",
+    "name": "Tofutti Brands Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "UONEK",
+    "name": "Urban One, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "VG",
+    "name": "Venture Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "WIX",
+    "name": "Wix.com Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "AIOT",
+    "name": "PowerFleet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ALTI",
+    "name": "AlTi Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "AMRC",
+    "name": "Ameresco, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "BTGO",
+    "name": "BitGo Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "CECO",
+    "name": "CECO Environmental Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "CSQR",
+    "name": "Csquare, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "DCTH",
+    "name": "Delcath Systems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "DHT",
+    "name": "DHT Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "DSP",
+    "name": "Viant Technology Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "EQPT",
+    "name": "EquipmentShare.com Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "EXOD",
+    "name": "Exodus Movement, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "FCUV",
+    "name": "Focus Universal Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "FWRD",
+    "name": "Forward Air Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "GCMG",
+    "name": "GCM Grosvenor Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "GRPN",
+    "name": "Groupon, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "HIMS",
+    "name": "Hims & Hers Health, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "HNRG",
+    "name": "Hallador Energy Company",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "HROW",
+    "name": "Harrow, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "IHRT",
+    "name": "iHeartMedia, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "KGS",
+    "name": "Kodiak Gas Services, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "KLTR",
+    "name": "Kaltura, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "KMDA",
+    "name": "Kamada Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "LINC",
+    "name": "Lincoln Educational Services Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MLAB",
+    "name": "Mesa Laboratories, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MNDY",
+    "name": "monday.com Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MPAA",
+    "name": "Motorcar Parts of America, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MRT",
+    "name": "Marti Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MYO",
+    "name": "Myomo, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "NESR",
+    "name": "National Energy Services Reunited Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "PUBM",
+    "name": "PubMatic, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "QLYS",
+    "name": "Qualys, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "QMCO",
+    "name": "Quantum Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "RPAY",
+    "name": "Repay Holdings Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SB",
+    "name": "Safe Bulkers, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SGI",
+    "name": "Somnigroup International Inc.",
+    "pass_count": 4,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "SMC",
+    "name": "Summit Midstream Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TGTX",
+    "name": "TG Therapeutics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TH",
+    "name": "Target Hospitality Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TLS",
+    "name": "Telos Corporation",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "TTEC",
+    "name": "TTEC Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "VFF",
+    "name": "Village Farms International, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "WBTN",
+    "name": "WEBTOON Entertainment Inc.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "WGS",
+    "name": "GeneDx Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "ZETA",
+    "name": "Zeta Global Holdings Corp.",
+    "pass_count": 3,
+    "date": "2026-11-12"
   }
 ]
