@@ -3778,5 +3778,89 @@
     "name": "Wix.com Ltd.",
     "pass_count": 3,
     "date": "2026-11-13"
+  },
+  {
+    "ticker": "MIST",
+    "name": "Milestone Pharmaceuticals Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "OWLT",
+    "name": "Owlet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "PWCM",
+    "name": "PowerCompute, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "FLO",
+    "name": "Flowers Foods, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "INTZ",
+    "name": "Intrusion Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "SKYX",
+    "name": "SKYX Platforms Corp.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "ICU",
+    "name": "SeaStar Medical Holding Corporation",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "BNGO",
+    "name": "Bionano Genomics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "BV",
+    "name": "BrightView Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "CAN",
+    "name": "Canaan Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "CODX",
+    "name": "Co-Diagnostics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "FLD",
+    "name": "Fold Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "KUST",
+    "name": "Kustom Entertainment, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
+  },
+  {
+    "ticker": "RGTI",
+    "name": "Rigetti Computing, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-13"
   }
 ]
