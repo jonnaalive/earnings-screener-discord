@@ -436,5 +436,17 @@
     "name": "Vylor Inc.",
     "pass_count": 3,
     "date": "2026-11-14"
+  },
+  {
+    "ticker": "CLBT",
+    "name": "Cellebrite DI Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-14"
+  },
+  {
+    "ticker": "NBIS",
+    "name": "Nebius Group N.V.",
+    "pass_count": 3,
+    "date": "2026-11-14"
   }
 ]
