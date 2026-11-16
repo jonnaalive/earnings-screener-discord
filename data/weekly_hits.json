@@ -832,5 +832,71 @@
     "name": "PowerCompute, Inc.",
     "pass_count": 3,
     "date": "2026-11-16"
+  },
+  {
+    "ticker": "CREX",
+    "name": "Creative Realities, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "EDBL",
+    "name": "Edible Garden AG Incorporated",
+    "pass_count": 4,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "EP",
+    "name": "Empire Petroleum Corporation",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "FTLF",
+    "name": "FitLife Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "GAME",
+    "name": "GameSquare Holdings, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "IQ",
+    "name": "iQIYI, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "IVF",
+    "name": "INVO Fertility, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "LNZA",
+    "name": "LanzaTech Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "MNTK",
+    "name": "Montauk Renewables, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "PERI",
+    "name": "Perion Network Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "POWW",
+    "name": "Outdoor Holding Company",
+    "pass_count": 3,
+    "date": "2026-11-16"
   }
 ]
