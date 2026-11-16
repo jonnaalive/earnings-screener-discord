@@ -808,5 +808,29 @@
     "name": "Where Food Comes From, Inc.",
     "pass_count": 3,
     "date": "2026-11-15"
+  },
+  {
+    "ticker": "BFRI",
+    "name": "Biofrontera Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "MIST",
+    "name": "Milestone Pharmaceuticals Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "OWLT",
+    "name": "Owlet, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
+  },
+  {
+    "ticker": "PWCM",
+    "name": "PowerCompute, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-16"
   }
 ]
