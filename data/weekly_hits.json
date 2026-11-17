@@ -898,5 +898,155 @@
     "name": "Outdoor Holding Company",
     "pass_count": 3,
     "date": "2026-11-16"
+  },
+  {
+    "ticker": "API",
+    "name": "Agora, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "AYTU",
+    "name": "Aytu BioPharma, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "CREX",
+    "name": "Creative Realities, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "CSAI",
+    "name": "Cloudastructure Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "DARE",
+    "name": "Daré Bioscience, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "DUOT",
+    "name": "Duos Technologies Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "EDBL",
+    "name": "Edible Garden AG Incorporated",
+    "pass_count": 4,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "FTLF",
+    "name": "FitLife Brands, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "GAME",
+    "name": "GameSquare Holdings, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "IMDX",
+    "name": "Insight Molecular Diagnostics Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "IQ",
+    "name": "iQIYI, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "IVF",
+    "name": "INVO Fertility, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "KITT",
+    "name": "Nauticus Robotics, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "LCFY",
+    "name": "Locafy Limited",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "LNZA",
+    "name": "LanzaTech Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "MNTK",
+    "name": "Montauk Renewables, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "PERI",
+    "name": "Perion Network Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "POWL",
+    "name": "Powell Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "POWW",
+    "name": "Outdoor Holding Company",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "RPID",
+    "name": "Rapid Micro Biosystems, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "STEM",
+    "name": "Stem, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "TMS",
+    "name": "Teamshares Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "TOMZ",
+    "name": "TOMI Environmental Solutions, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "XPEV",
+    "name": "XPeng Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "ZEO",
+    "name": "Zeo Energy Corp.",
+    "pass_count": 3,
+    "date": "2026-11-17"
   }
 ]
