@@ -1048,5 +1048,101 @@
     "name": "Zeo Energy Corp.",
     "pass_count": 3,
     "date": "2026-11-17"
+  },
+  {
+    "ticker": "DIS",
+    "name": "The Walt Disney Company",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "ELTK",
+    "name": "Eltek Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "GFF",
+    "name": "Griffon Corporation",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "HD",
+    "name": "The Home Depot, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "HUYA",
+    "name": "HUYA Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "KLAR",
+    "name": "Klarna Group plc",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "ONEW",
+    "name": "OneWater Marine Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "SMWB",
+    "name": "Similarweb Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "TME",
+    "name": "Tencent Music Entertainment Group",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "VIK",
+    "name": "Viking Holdings Ltd",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "MAMO",
+    "name": "Massimo Group",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "NIU",
+    "name": "Niu Technologies",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "ODYS",
+    "name": "Odysight.ai Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "SLNH",
+    "name": "Soluna Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "VHUB",
+    "name": "VenHub Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
+  },
+  {
+    "ticker": "XXII",
+    "name": "22nd Century Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-17"
   }
 ]
