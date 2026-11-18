@@ -1144,5 +1144,257 @@
     "name": "22nd Century Group, Inc.",
     "pass_count": 3,
     "date": "2026-11-17"
+  },
+  {
+    "ticker": "AIRE",
+    "name": "reAlpha Tech Corp.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "DIS",
+    "name": "The Walt Disney Company",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ELTK",
+    "name": "Eltek Ltd.",
+    "pass_count": 4,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "GFF",
+    "name": "Griffon Corporation",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "HD",
+    "name": "The Home Depot, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "HUYA",
+    "name": "HUYA Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "KLAR",
+    "name": "Klarna Group plc",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ONEW",
+    "name": "OneWater Marine Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "SMWB",
+    "name": "Similarweb Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "TME",
+    "name": "Tencent Music Entertainment Group",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "VIK",
+    "name": "Viking Holdings Ltd",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ACM",
+    "name": "AECOM",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "API",
+    "name": "Agora, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ASPI",
+    "name": "ASP Isotopes Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ATPC",
+    "name": "Agape ATP Corporation",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "AYTU",
+    "name": "Aytu BioPharma, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "BRFH",
+    "name": "Barfresh Food Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "BTOC",
+    "name": "Armlogi Holding Corp.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "DTST",
+    "name": "Data Storage Corporation",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "EDBL",
+    "name": "Edible Garden AG Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "FFAI",
+    "name": "Faraday Future Intelligent Electric Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "FIRY",
+    "name": "Firy Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "FKWL",
+    "name": "Franklin Wireless Corp.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "GAME",
+    "name": "GameSquare Holdings, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "IQ",
+    "name": "iQIYI, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "IVF",
+    "name": "INVO Fertility, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "IVVD",
+    "name": "Invivyd, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "KYNB",
+    "name": "Kyntra Bio, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "LCFY",
+    "name": "Locafy Limited",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "MAMO",
+    "name": "Massimo Group",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "NIU",
+    "name": "Niu Technologies",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ODYS",
+    "name": "Odysight.ai Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "SCNX",
+    "name": "Scienture Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "SNTI",
+    "name": "Senti Biosciences Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "STEM",
+    "name": "Stem, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "TMS",
+    "name": "Teamshares Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "VHUB",
+    "name": "VenHub Global, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "XPEV",
+    "name": "XPeng Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "XTNT",
+    "name": "Xtant Medical Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "XXII",
+    "name": "22nd Century Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ZEO",
+    "name": "Zeo Energy Corp.",
+    "pass_count": 3,
+    "date": "2026-11-18"
   }
 ]
