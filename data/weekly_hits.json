@@ -1396,5 +1396,71 @@
     "name": "Zeo Energy Corp.",
     "pass_count": 3,
     "date": "2026-11-18"
+  },
+  {
+    "ticker": "CSHR",
+    "name": "CoinShares PLC",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "GLBE",
+    "name": "Global-E Online Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "JJSF",
+    "name": "J&J Snack Foods Corp.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "JMIA",
+    "name": "Jumia Technologies AG",
+    "pass_count": 4,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "TJX",
+    "name": "The TJX Companies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ZIM",
+    "name": "ZIM Integrated Shipping Services Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "ZKH",
+    "name": "ZKH Group Limited",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "AUNA",
+    "name": "Auna SA",
+    "pass_count": 3,
+    "date": "2026-11-18"
+  },
+  {
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-18"
   }
 ]
