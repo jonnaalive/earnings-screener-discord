@@ -1798,5 +1798,107 @@
     "name": "Zeo Energy Corp.",
     "pass_count": 3,
     "date": "2026-11-19"
+  },
+  {
+    "ticker": "ARBE",
+    "name": "Arbe Robotics Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding Limited",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "DAO",
+    "name": "Youdao, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "FUTU",
+    "name": "Futu Holdings Limited",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "LQDT",
+    "name": "Liquidity Services, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "ROAD",
+    "name": "Construction Partners, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "VVV",
+    "name": "Valvoline Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "WMG",
+    "name": "Warner Music Group Corp.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "YMM",
+    "name": "Full Truck Alliance Co. Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "AS",
+    "name": "Amer Sports, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "LZB",
+    "name": "La-Z-Boy Incorporated",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "BAER",
+    "name": "Bridger Aerospace Group Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "FKWL",
+    "name": "Franklin Wireless Corp.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "KYNB",
+    "name": "Kyntra Bio, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "POWL",
+    "name": "Powell Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
+  },
+  {
+    "ticker": "SCNX",
+    "name": "Scienture Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-19"
   }
 ]
