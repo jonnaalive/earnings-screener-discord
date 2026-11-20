@@ -2080,5 +2080,29 @@
     "name": "Similarweb Ltd.",
     "pass_count": 3,
     "date": "2026-11-20"
+  },
+  {
+    "ticker": "BJ",
+    "name": "BJ's Wholesale Club Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-20"
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-20"
+  },
+  {
+    "ticker": "BLSH",
+    "name": "Bullish",
+    "pass_count": 3,
+    "date": "2026-11-20"
+  },
+  {
+    "ticker": "UTI",
+    "name": "Universal Technical Institute, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-20"
   }
 ]
