@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "ticker": "BJ",
+    "name": "BJ's Wholesale Club Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "ARBE",
+    "name": "Arbe Robotics Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding Limited",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "BULL",
+    "name": "Webull Corporation",
+    "pass_count": 4,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "DAO",
+    "name": "Youdao, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "FUTU",
+    "name": "Futu Holdings Limited",
+    "pass_count": 4,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "ROAD",
+    "name": "Construction Partners, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "VVV",
+    "name": "Valvoline Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "WMG",
+    "name": "Warner Music Group Corp.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "YMM",
+    "name": "Full Truck Alliance Co. Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "BEEM",
+    "name": "Beam Global",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "BLSH",
+    "name": "Bullish",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "CPA",
+    "name": "Copa Holdings, S.A.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "CSHR",
+    "name": "CoinShares PLC",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "EMMA",
+    "name": "Emmaus Life Sciences, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "KLIC",
+    "name": "Kulicke and Soffa Industries, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "NJR",
+    "name": "New Jersey Resources Corporation",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "P",
+    "name": "Everpure, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "PCYO",
+    "name": "Pure Cycle Corporation",
+    "pass_count": 4,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "SBLK",
+    "name": "Star Bulk Carriers Corp.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "UTI",
+    "name": "Universal Technical Institute, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "ZIM",
+    "name": "ZIM Integrated Shipping Services Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "ZKH",
+    "name": "ZKH Group Limited",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  }
+]
