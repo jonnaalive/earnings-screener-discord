@@ -154,5 +154,35 @@
     "name": "ZKH Group Limited",
     "pass_count": 3,
     "date": "2026-11-21"
+  },
+  {
+    "ticker": "NGVC",
+    "name": "Natural Grocers by Vitamin Cottage, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "NTIC",
+    "name": "Northern Technologies International Corporation",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "POST",
+    "name": "Post Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "BORR",
+    "name": "Borr Drilling Limited",
+    "pass_count": 3,
+    "date": "2026-11-21"
+  },
+  {
+    "ticker": "SNEX",
+    "name": "StoneX Group Inc.",
+    "pass_count": 3,
+    "date": "2026-11-21"
   }
 ]
