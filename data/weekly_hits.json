@@ -184,5 +184,77 @@
     "name": "StoneX Group Inc.",
     "pass_count": 3,
     "date": "2026-11-21"
+  },
+  {
+    "ticker": "BJ",
+    "name": "BJ's Wholesale Club Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "ARBE",
+    "name": "Arbe Robotics Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding Limited",
+    "pass_count": 4,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "BBWI",
+    "name": "Bath & Body Works, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "BSP",
+    "name": "Bending Spoons S.p.A.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "BULL",
+    "name": "Webull Corporation",
+    "pass_count": 4,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "DAO",
+    "name": "Youdao, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "EVGN",
+    "name": "Evogene Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "NGVC",
+    "name": "Natural Grocers by Vitamin Cottage, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "NTIC",
+    "name": "Northern Technologies International Corporation",
+    "pass_count": 3,
+    "date": "2026-11-22"
+  },
+  {
+    "ticker": "POST",
+    "name": "Post Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-22"
   }
 ]
