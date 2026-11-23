@@ -268,5 +268,17 @@
     "name": "IES Holdings, Inc.",
     "pass_count": 3,
     "date": "2026-11-23"
+  },
+  {
+    "ticker": "THCH",
+    "name": "TH International Limited",
+    "pass_count": 3,
+    "date": "2026-11-23"
+  },
+  {
+    "ticker": "ZEPP",
+    "name": "Zepp Health Corporation",
+    "pass_count": 4,
+    "date": "2026-11-23"
   }
 ]
