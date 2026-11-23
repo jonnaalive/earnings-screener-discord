@@ -256,5 +256,17 @@
     "name": "Post Holdings, Inc.",
     "pass_count": 3,
     "date": "2026-11-22"
+  },
+  {
+    "ticker": "BJ",
+    "name": "BJ's Wholesale Club Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-23"
+  },
+  {
+    "ticker": "IESC",
+    "name": "IES Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-23"
   }
 ]
