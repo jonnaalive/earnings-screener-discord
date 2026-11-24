@@ -340,5 +340,77 @@
     "name": "Zepp Health Corporation",
     "pass_count": 4,
     "date": "2026-11-24"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "BILI",
+    "name": "Bilibili Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "BZUN",
+    "name": "Baozun Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "DY",
+    "name": "Dycom Industries, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "EMBC",
+    "name": "Embecta Corp.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "ITRN",
+    "name": "Ituran Location and Control Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "KC",
+    "name": "Kingsoft Cloud Holdings Limited",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "MMED",
+    "name": "MiniMed Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "MOV",
+    "name": "Movado Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "SHOE",
+    "name": "Shoe Station Group Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "VNET",
+    "name": "VNET Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
   }
 ]
