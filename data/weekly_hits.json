@@ -280,5 +280,65 @@
     "name": "Zepp Health Corporation",
     "pass_count": 4,
     "date": "2026-11-23"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "AMTM",
+    "name": "Amentum Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "SMTC",
+    "name": "Semtech Corporation",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "SURG",
+    "name": "SurgePays, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "SYM",
+    "name": "Symbotic Inc.",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "THCH",
+    "name": "TH International Limited",
+    "pass_count": 3,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "TUYA",
+    "name": "Tuya Inc.",
+    "pass_count": 4,
+    "date": "2026-11-24"
+  },
+  {
+    "ticker": "ZEPP",
+    "name": "Zepp Health Corporation",
+    "pass_count": 4,
+    "date": "2026-11-24"
   }
 ]
