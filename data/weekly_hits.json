@@ -412,5 +412,143 @@
     "name": "VNET Group, Inc.",
     "pass_count": 3,
     "date": "2026-11-24"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "AMBA",
+    "name": "Ambarella, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "BILI",
+    "name": "Bilibili Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "BZUN",
+    "name": "Baozun Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "DY",
+    "name": "Dycom Industries, Inc.",
+    "pass_count": 4,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "EMBC",
+    "name": "Embecta Corp.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "ITRN",
+    "name": "Ituran Location and Control Ltd.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "KC",
+    "name": "Kingsoft Cloud Holdings Limited",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "MMED",
+    "name": "MiniMed Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "MOV",
+    "name": "Movado Group, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "SHOE",
+    "name": "Shoe Station Group Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "AMTM",
+    "name": "Amentum Holdings, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "SMTC",
+    "name": "Semtech Corporation",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "SURG",
+    "name": "SurgePays, Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "SYM",
+    "name": "Symbotic Inc.",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "THCH",
+    "name": "TH International Limited",
+    "pass_count": 3,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "TUYA",
+    "name": "Tuya Inc.",
+    "pass_count": 4,
+    "date": "2026-11-25"
+  },
+  {
+    "ticker": "ZEPP",
+    "name": "Zepp Health Corporation",
+    "pass_count": 4,
+    "date": "2026-11-25"
   }
 ]
